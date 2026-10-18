@@ -1,0 +1,76 @@
+Hold-out errors (category / priority):
+  - 'Odd message in my inbox from 'HMRC' about a tax refund, have' cat Phishing / Email Security->Phishing / Email Security | pri P3->P2
+  - 'Guest wifi drops out whenever more than a few people connect' cat Network / Firewall->Network / Firewall | pri P4->P3
+  - 'The weekend backup job errored out, and there's a warning th' cat Backup & Recovery->Backup & Recovery | pri P2->P4
+  - 'My docking station stopped detecting the external monitors' cat Hardware / Device->Hardware / Device | pri P4->P1
+  - 'Qlik app shows yesterday's figures, the scheduled refresh se' cat Data & BI (Qlik / Alteryx)->Data & BI (Qlik / Alteryx) | pri P3->P1
+  - 'Reporting numbers in the sales dashboard don't match what fi' cat Data & BI (Qlik / Alteryx)->Data & BI (Qlik / Alteryx) | pri P3->P2
+{
+  "baseline_category_acc": 0.112,
+  "baseline_priority_acc": 0.349,
+  "split_category_acc": 0.979,
+  "split_category_macroF1": 0.979,
+  "split_priority_acc": 0.928,
+  "split_priority_within1": 0.997,
+  "split_P1_recall": 0.956,
+  "stress_n": 30,
+  "stress_category_acc": 0.867,
+  "stress_priority_acc": 0.567,
+  "stress_priority_within1": 0.967,
+  "stress_P1_recall": 0.8,
+  "holdout_n": 24,
+  "holdout_category_acc": 1.0,
+  "holdout_category_macroF1": 1.0,
+  "holdout_priority_acc": 0.75,
+  "holdout_priority_within1": 0.875,
+  "holdout_P1_recall": 1.0,
+  "holdout_auto_handled_share": 0.625,
+  "holdout_auto_handled_cat_errors": 0,
+  "holdout_P1_flagged_for_human": 1.0,
+  "holdout_retrieval_hit@1": 1.0,
+  "holdout_retrieval_hit@3": 1.0,
+  "stress_retrieval_hit@1_no_boost": 0.6,
+  "stress_retrieval_hit@3_no_boost": 0.767,
+  "stress_retrieval_hit@1_hybrid": 0.867,
+  "stress_retrieval_hit@3_hybrid": 0.933,
+  "stress_auto_handled_share": 0.533,
+  "stress_auto_handled_cat_errors": 1
+}
+
+Per-category report (random split):
+                            precision    recall  f1-score   support
+
+   Access / Change Request       0.92      1.00      0.96        33
+            Account Access       1.00      1.00      1.00        33
+         Backup & Recovery       1.00      0.97      0.99        39
+       Cloud (Azure / AWS)       0.97      0.97      0.97        34
+Data & BI (Qlik / Alteryx)       0.97      0.95      0.96        41
+   Endpoint Security Alert       1.00      1.00      1.00        35
+         Hardware / Device       0.97      0.97      0.97        39
+  Microsoft 365 / Software       0.98      0.98      0.98        42
+        Network / Firewall       1.00      0.97      0.99        40
+ Phishing / Email Security       0.97      0.97      0.97        39
+
+                  accuracy                           0.98       375
+                 macro avg       0.98      0.98      0.98       375
+              weighted avg       0.98      0.98      0.98       375
+
+Stress-set errors (category):
+  - 'Defender shows trojan found in Downloads folder on a sales laptop, rem' gold=Endpoint Security Alert pred=Hardware / Device
+  - 'Someone overwrote the budget spreadsheet yesterday, can we get the Mon' gold=Backup & Recovery pred=Access / Change Request
+  - 'Outlook says disconnected and will not open since this morning for me ' gold=Microsoft 365 / Software pred=Phishing / Email Security
+  - 'Printer will not connect to the network after the router was moved' gold=Hardware / Device pred=Network / Firewall
+Stress-set errors (priority):
+  - 'Phone got replaced and the authenticator app is gone, can't ' gold=P3 pred=P2
+  - 'Got an email from 'DHL' wanting me to pay a customs fee via ' gold=P3 pred=P2
+  - 'Three people in accounts opened an attachment from a supplie' gold=P1 pred=P2
+  - 'Defender shows trojan found in Downloads folder on a sales l' gold=P3 pred=P2
+  - 'Someone overwrote the budget spreadsheet yesterday, can we g' gold=P3 pred=P4
+  - 'Keyboard on the reception PC has a few dead keys' gold=P4 pred=P2
+  - 'Alteryx scheduled job gave a database login error, finance c' gold=P2 pred=P3
+  - 'Reset my pw please' gold=P4 pred=P3
+  - 'Weird pop-up on screen saying my PC is infected and to call ' gold=P3 pred=P2
+  - 'Wi-Fi in the canteen is really patchy' gold=P4 pred=P3
+  - 'The finance dashboard totals look off compared to the ledger' gold=P3 pred=P4
+  - 'Calendar invites not syncing to my phone' gold=P4 pred=P3
+  - 'Printer will not connect to the network after the router was' gold=P4 pred=P3

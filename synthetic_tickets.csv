@@ -1,0 +1,1501 @@
+ticket_id,text,category,priority
+T100000,"Mark cannot log in, says password is incorrect",Account Access,P3
+T100001,"Hi, laptop will not turn on, battery light flashing",Hardware / Device,P3
+T100002,monitor flickering on Chloe's desk,Hardware / Device,P4
+T100003,"URGENT: EDR alert: malware detected on Priya's laptop, quarantined automatically Started today.",Endpoint Security Alert,P3
+T100004,"Hello team, internet down at Newcastle office, nobody can get online Started today.",Network / Firewall,P1
+T100005,Azure app service is very slow since last deployment Happening for a while now.,Cloud (Azure / AWS),P2
+T100006,EDR high severity: suspicious PowerShell executing encoded commands on server,Endpoint Security Alert,P2
+T100007,request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P4
+T100008,"Hi, Account locked out after several attempts, user at London branch Not sure what changed.",Account Access,P3
+T100009,FYI Alteryx workflow failed overnight with a connection error Can someone look asap?,Data & BI (Qlik / Alteryx),P3
+T100010,antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100011,Quick one: hard drive making clicking noise on a director's desktop Can someone look asap?,Account Access,P3
+T100012,"Please help - slow network for users at Newcastle office, pages take ages to load",Network / Firewall,P3
+T100013,"Hello team, request for a new column in the stock dashboard Thanks.",Data & BI (Qlik / Alteryx),P4
+T100014,"internet down at head office, nobody can get online",Network / Firewall,P1
+T100015,Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T100016,FYI VPN tunnel to London branch keeps dropping every few minutes,Network / Firewall,P2
+T100017,"Please help - cannot reach the cloud database from the app, timeouts started this morning Started today.",Cloud (Azure / AWS),P2
+T100018,"FYI Azure VM not responding, production web app is down Thanks.",Cloud (Azure / AWS),P1
+T100019,"Hello team, add Priya to the finance shared folder group Not sure what changed.",Access / Change Request,P4
+T100020,"Quick one: phishing campaign: users reporting emails impersonating our MD, several clicked Happening for a while now.",Phishing / Email Security,P1
+T100021,"laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T100022,AWS S3 bucket permissions error for the reporting service Happening for a while now.,Cloud (Azure / AWS),P3
+T100023,FYI password expired and self service reset is failing for Ravi,Account Access,P3
+T100024,"Please help - need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P2
+T100025,FYI Teams meetings audio keeps cutting out for all staff at London branch Not sure what changed.,Microsoft 365 / Software,P2
+T100026,"URGENT: is this email legitimate? looks odd, question only",Phishing / Email Security,P4
+T100027,nightly backup failed again with error repository full,Backup & Recovery,P2
+T100028,CEO locked out of account before board meeting in 30 minutes,Account Access,P2
+T100029,Please help - Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T100030,"Chloe cannot log in, says password is incorrect",Account Access,P3
+T100031,"EDR alert: malware detected on Aisha's laptop, quarantined automatically Not sure what changed.",Endpoint Security Alert,P3
+T100032,"internet down at head office, nobody can get online",Network / Firewall,P1
+T100033,"URGENT: backup agent offline on file server, last success 3 days ago Thanks.",Backup & Recovery,P2
+T100034,"Hello team, Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100035,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100036,Please help - add Emma to the finance shared folder group,Access / Change Request,P4
+T100037,add Aisha to the finance shared folder group Started today.,Access / Change Request,P4
+T100038,"is this email legitimate? looks odd, question only",Phishing / Email Security,P4
+T100039,monitor flickering on Mark's desk Happening for a while now.,Hardware / Device,P4
+T100040,Teams meetings audio keeps cutting out for all staff at Leeds site Thanks.,Microsoft 365 / Software,P2
+T100041,FYI sales report shows wrong totals after the latest data load Started today.,Data & BI (Qlik / Alteryx),P2
+T100042,Please help - backup report shows a warning on one job but completed Started today.,Backup & Recovery,P4
+T100043,"Hello team, internet down at Gateshead depot, nobody can get online",Network / Firewall,P1
+T100044,whole finance team getting 'account disabled' sign-in errors since 9am Can someone look asap?,Account Access,P1
+T100045,Please help - request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100046,URGENT: add Mark to the finance shared folder group Not sure what changed.,Access / Change Request,P4
+T100047,URGENT: nightly backup failed again with error repository full,Backup & Recovery,P2
+T100048,"Hi, AWS S3 bucket permissions error for the reporting service Not sure what changed.",Cloud (Azure / AWS),P3
+T100049,"Hi, suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P2
+T100050,FYI AWS S3 bucket permissions error for the reporting service Thanks.,Cloud (Azure / AWS),P3
+T100051,"URGENT: email not working for entire company, no one can send or receive Not sure what changed.",Microsoft 365 / Software,P1
+T100052,Quick one: firewall rule request: allow supplier IP to access web server Not sure what changed.,Network / Firewall,P4
+T100053,firewall rule request: allow supplier IP to access web server Can someone look asap?,Network / Firewall,P4
+T100054,"Account locked out after several attempts, user at Leeds site Thanks.",Account Access,P3
+T100055,leaver today: please disable account and forward mailbox to manager Happening for a while now.,Access / Change Request,P3
+T100056,"FYI laptop screen cracked, user is travelling and needs it for client demo Thanks.",Hardware / Device,P2
+T100057,Quick one: printer at London branch jammed and showing error code,Hardware / Device,P4
+T100058,"Please help - phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100059,Please help - antivirus flagged a potentially unwanted program on a workstation Can someone look asap?,Endpoint Security Alert,P4
+T100060,password expired and self service reset is failing for Sam Started today.,Account Access,P2
+T100061,"Hi, AWS S3 bucket permissions error for the reporting service",Cloud (Azure / AWS),P3
+T100062,"email not working for entire company, no one can send or receive",Data & BI (Qlik / Alteryx),P1
+T100063,"Hi, is this email legitimate? looks odd, question only",Phishing / Email Security,P4
+T100064,request for a new column in the stock dashboard Started today.,Data & BI (Qlik / Alteryx),P4
+T100065,"Please help - EDR alert: malware detected on Dave's laptop, quarantined automatically Started today.",Endpoint Security Alert,P3
+T100066,FYI monitor flickering on Ravi's desk Not sure what changed.,Hardware / Device,P4
+T100067,"Hi, antivirus flagged a potentially unwanted program on a workstation Not sure what changed.",Endpoint Security Alert,P4
+T100068,URGENT: Teams meetings audio keeps cutting out for all staff at warehouse Can someone look asap?,Microsoft 365 / Software,P2
+T100069,request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P4
+T100070,"email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T100071,"URGENT: I clicked a link in an email and entered my password, now worried Happening for a while now.",Phishing / Email Security,P2
+T100072,Teams meetings audio keeps cutting out for all staff at head office Thanks.,Microsoft 365 / Software,P2
+T100073,"Hello team, please restore a deleted folder from last Tuesday for Aisha Can someone look asap?",Backup & Recovery,P3
+T100074,FYI antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100075,"Hello team, need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T100076,Quick one: month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T100077,"FYI I clicked a link in an email and entered my password, now worried Happening for a while now.",Phishing / Email Security,P2
+T100078,Please help - firewall rule request: allow supplier IP to access web server Can someone look asap?,Network / Firewall,P3
+T100079,request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100080,"laptop screen cracked, user is travelling and needs it for client demo Thanks.",Hardware / Device,P2
+T100081,"Hi, whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.",Account Access,P1
+T100082,"Hello team, nightly backup failed again with error repository full Can someone look asap?",Backup & Recovery,P2
+T100083,Quick one: printer at Gateshead depot jammed and showing error code,Hardware / Device,P4
+T100084,"I clicked a link in an email and entered my password, now worried Can someone look asap?",Phishing / Email Security,P2
+T100085,"Please help - firewall cluster failed over, primary unresponsive, site traffic unstable Not sure what changed.",Network / Firewall,P2
+T100086,Please help - endpoint agent shows as out of date on Priya's device Not sure what changed.,Endpoint Security Alert,P4
+T100087,"Hello team, internet down at Newcastle office, nobody can get online Started today.",Network / Firewall,P1
+T100088,"Hi, need licence for Visio for Chloe Started today.",Access / Change Request,P4
+T100089,"Hello team, leaver today: please disable account and forward mailbox to manager Not sure what changed.",Phishing / Email Security,P3
+T100090,request to resize a test VM in Azure Happening for a while now.,Cloud (Azure / AWS),P4
+T100091,"Hello team, need to restore whole VM from yesterday's snapshot, server corrupted Happening for a while now.",Backup & Recovery,P1
+T100092,FYI VPN tunnel to Leeds site keeps dropping every few minutes,Network / Firewall,P2
+T100093,printer at head office jammed and showing error code Can someone look asap?,Hardware / Device,P4
+T100094,"URGENT: cannot send emails from Outlook, stuck in outbox Started today.",Microsoft 365 / Software,P3
+T100095,"Hi, antivirus flagged a potentially unwanted program on a workstation Happening for a while now.",Endpoint Security Alert,P4
+T100096,"laptop screen cracked, user is travelling and needs it for client demo Started today.",Hardware / Device,P2
+T100097,Please help - firewall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T100098,FYI how do I change my password? Happening for a while now.,Account Access,P4
+T100099,"Hi, mailbox full, need quota increase Can someone look asap?",Microsoft 365 / Software,P4
+T100100,"Hello team, how do I change my pasword?",Account Access,P4
+T100101,please restore a deleted folder from last Tuesday for Ravi,Backup & Recovery,P3
+T100102,"Quick one: storage account nearing quota, alert triggered Can someone look asap?",Cloud (Azure / AWS),P3
+T100103,Quick one: Teams meetings audio keeps cutting out for all staff at Leeds site Started today.,Microsoft 365 / Software,P2
+T100104,Quick one: month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T100105,"Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T100106,"Hi, cannot reach the cloud database from the app, timeouts started this morning Can someone look asap?",Cloud (Azure / AWS),P2
+T100107,Quick one: nightly backup failed again with error repository full,Backup & Recovery,P2
+T100108,sales report shows wrong totals after the latest data load Started today.,Data & BI (Qlik / Alteryx),P2
+T100109,URGENT: month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T100110,request to resize a test VM in Azure Happening for a while now.,Cloud (Azure / AWS),P4
+T100111,request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P4
+T100112,Quick one: ransomware behaviour detected on multiple endpoints at London branch Can someone look asap?,Endpoint Security Alert,P1
+T100113,"Hi, add Chloe to the finance shared folder group",Access / Change Request,P4
+T100114,firewall rule request: allow supplier IP to access web server Happening for a while now.,Network / Firewall,P4
+T100115,"Quick one: Qlik dashboard not refreshing, data is from last week Thanks.",Data & BI (Qlik / Alteryx),P3
+T100116,"Hello team, firewall cluster failed over, primary unresponsive, site traffic unstable Thanks.",Network / Firewall,P2
+T100117,whole finance team getting 'account disabled' sign-in errors since 9am,Account Access,P1
+T100118,"Hi, suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T100119,"Hello team, add Tom to the finance shared folder group",Access / Change Request,P4
+T100120,"Hello team, cannot reach the cloud database from the app, timeouts started this morning",Cloud (Azure / AWS),P2
+T100121,SharePoint site access denied for Lena Not sure what changed.,Microsoft 365 / Software,P3
+T100122,"slow network for users at London branch, pages take ages to load Not sure what changed.",Network / Firewall,P3
+T100123,Excel keeps crashing when opening attachments,Microsoft 365 / Software,P3
+T100124,Quick one: files renamed with .locked extension and ransom note on file server Happening for a while now.,Endpoint Security Alert,P1
+T100125,"Hi, firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T100126,"Hello team, MFA prompt not arriving on new phone, locked out of everything Started today.",Account Access,P3
+T100127,how do I change my password? Started today.,Account Access,P4
+T100128,Please help - wifi not working in meeting room two only Started today.,Network / Firewall,P3
+T100129,add Emma to the finance shared folder group Thanks.,Access / Change Request,P4
+T100130,"Hello team, ransomware behaviour detected on multiple endpoints at Newcastle office Thanks.",Endpoint Security Alert,P1
+T100131,"Hello team, phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100132,EDR high severity: suspicious PowerShell executing encoded commands on server Happening for a while now.,Network / Firewall,P2
+T100133,"storage account nearing quota, alert triggered Started today.",Cloud (Azure / AWS),P3
+T100134,received a strange email asking me to verify my bank details,Phishing / Email Security,P3
+T100135,FYI SharePoint site access denied for Mark,Microsoft 365 / Software,P3
+T100136,multiple staff at London branch received same fake invoice email with link Thanks.,Data & BI (Qlik / Alteryx),P2
+T100137,AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T100138,"URGENT: firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100139,Please help - OneDrive keeps crashing when opening attachments Happening for a while now.,Microsoft 365 / Software,P3
+T100140,backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T100141,"URGENT: internet down at head office, nobody can get online Thanks.",Network / Firewall,P1
+T100142,URGENT: CEO locked out of account before board meeting in 30 minutes Started today.,Account Access,P2
+T100143,"Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T100144,URGENT: SharePoint site access denied for Emma Started today.,Microsoft 365 / Software,P4
+T100145,request for a new column in the stock dashboard Can someone look asap?,Data & BI (Qlik / Alteryx),P4
+T100146,FYI whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.,Account Access,P1
+T100147,"URGENT: urgent: terminated employee still has access to systems, disable now Not sure what changed.",Access / Change Request,P2
+T100148,endpoint agent shows as out of date on Priya's device,Endpoint Security Alert,P4
+T100149,"Hello team, wifi not working in meeting room two only Happening for a while now.",Network / Firewall,P3
+T100150,"Please help - EDR alert: malware detected on Lena's laptop, quarantined automatically Can someone look asap?",Endpoint Security Alert,P3
+T100151,"suspicious email with attachment from unknown sender, did not open it Started today.",Phishing / Email Security,P3
+T100152,Please help - backup report shows a warning on one job but completed Started today.,Backup & Recovery,P4
+T100153,"internet down at Gateshead depot, nobody can get online Started today.",Network / Firewall,P1
+T100154,"cannot send emails from Outlook, stuck in outbox Can someone look asap?",Microsoft 365 / Software,P3
+T100155,"Please help - internet down at Gateshead depot, nobody can get online",Network / Firewall,P1
+T100156,"Hi, need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T100157,"Quick one: cannot reach the cloud database from the app, timeouts started this morning Thanks.",Cloud (Azure / AWS),P2
+T100158,Please help - Teams meetings audio keeps cutting out for all staff at Gateshead depot,Microsoft 365 / Software,P2
+T100159,"Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100160,Quick one: VPN tunnel to Newcastle office keeps dropping every few minutes Started today.,Network / Firewall,P2
+T100161,"Hi, antivirus flagged a potentially unwanted program on a workstation",Endpoint Security Alert,P4
+T100162,Quick one: antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100163,"Mark cant log in, says password is incorrect Happening for a while now.",Account Access,P3
+T100164,"storage account nearing quota, alert triggered Not sure what changed.",Cloud (Azure / AWS),P2
+T100165,"Hi, month-end Qlik reload failed and finance needs numbers today Happening for a while now.",Data & BI (Qlik / Alteryx),P2
+T100166,"FYI EDR alert: malware detected on Ravi's laptop, quarantined automatically",Endpoint Security Alert,P3
+T100167,EDR high severity: suspicious PowerShell executing encoded commands on server Started today.,Endpoint Security Alert,P2
+T100168,"URGENT: is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T100169,"email not working for entire company, no one can send or receive",Cloud (Azure / AWS),P1
+T100170,FYI leaver today: please disable account and forward mailbox to manager Happening for a while now.,Access / Change Request,P3
+T100171,URGENT: Azure app service is very slow since last deployment Can someone look asap?,Cloud (Azure / AWS),P2
+T100172,Quick one: SharePoint site access denied for Lena Started today.,Microsoft 365 / Software,P3
+T100173,"laptop will not turn on, battery light flashing Can someone look asap?",Hardware / Device,P3
+T100174,month-end Qlik reload failed and finance needs numbers today Not sure what changed.,Data & BI (Qlik / Alteryx),P3
+T100175,Please help - printer at Newcastle office jammed and showing error code Started today.,Hardware / Device,P4
+T100176,Quick one: leaver today: please disable account and forward mailbox to manager,Access / Change Request,P3
+T100177,Quick one: hard drive making clicking noise on a director's desktop Started today.,Hardware / Device,P3
+T100178,"Hello team, slow network for users at head office, pages take ages to load Thanks.",Network / Firewall,P2
+T100179,"Hello team, hard drive making clicking noise on a director's desktop Not sure what changed.",Hardware / Device,P3
+T100180,"cannot send emails from Outlook, stuck in outbox Not sure what changed.",Microsoft 365 / Software,P3
+T100181,FYI endpoint agent shows as out of date on Lena's device Can someone look asap?,Endpoint Security Alert,P4
+T100182,"Hi, backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T100183,"I clicked a link in an email and entered my password, now worried",Phishing / Email Security,P2
+T100184,firewall rule request: allow supplier IP to access web server Started today.,Network / Firewall,P4
+T100185,antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100186,CEO locked out of account before board meeting in 30 minutes Started today.,Account Access,P2
+T100187,"FYI slow network for users at head office, pages take ages to load Can someone look asap?",Network / Firewall,P3
+T100188,URGENT: backup report shows a warning on one job but completed,Backup & Recovery,P3
+T100189,"I clicked a link in an email and entered my password, now worried Not sure what changed.",Phishing / Email Security,P2
+T100190,"Hello team, month-end Qlik reload failed and finance needs numbers today Not sure what changed.",Data & BI (Qlik / Alteryx),P2
+T100191,"URGENT: cannot send emails from Outlook, stuck in outbox Started today.",Microsoft 365 / Software,P3
+T100192,"URGENT: backup agent offline on file server, last success 3 days ago Thanks.",Backup & Recovery,P2
+T100193,"Please help - Mark cannot log in, says password is incorrect Thanks.",Account Access,P3
+T100194,"is this email legitimate? looks odd, question only Not sure what changed.",Phishing / Email Security,P4
+T100195,Quick one: Excel keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T100196,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100197,FYI printer at warehouse jammed and showing error code Thanks.,Hardware / Device,P4
+T100198,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100199,FYI ransomware behaviour detected on multiple endpoints at Leeds site Happening for a while now.,Endpoint Security Alert,P1
+T100200,"FYI mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100201,"FYI is this email legitimate? looks odd, question only Not sure what changed.",Phishing / Email Security,P4
+T100202,"Hello team, EDR high severity: suspicious PowerShell executing encoded commands on server",Endpoint Security Alert,P2
+T100203,"Quick one: phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100204,monitor flickering on Aisha's desk Thanks.,Hardware / Device,P4
+T100205,"storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100206,"Quick one: mailbox full, need quota increase Started today.",Microsoft 365 / Software,P4
+T100207,"Hello team, request for a new column in the stock dashboard Can someone look asap?",Data & BI (Qlik / Alteryx),P4
+T100208,URGENT: Alteryx workflow failed overnight with a connection error Can someone look asap?,Data & BI (Qlik / Alteryx),P3
+T100209,"Hello team, printer at head office jammed and showing error code",Hardware / Device,P4
+T100210,"FYI cannot send emails from Outlook, stuck in outbox Can someone look asap?",Microsoft 365 / Software,P3
+T100211,need licence for Visio for Aisha,Access / Change Request,P4
+T100212,Quick one: nightly backup failed again with error repository full Not sure what changed.,Backup & Recovery,P2
+T100213,"Hi, Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100214,"Hello team, nightly backup failed again with error repository full",Backup & Recovery,P2
+T100215,FYI EDR high severity: suspicious PowerShell executing encoded commands on server Not sure what changed.,Endpoint Security Alert,P2
+T100216,Quick one: Alteryx workflow failed overnight with a connection error Can someone look asap?,Data & BI (Qlik / Alteryx),P4
+T100217,"Please help - is this email legitimate? looks odd, question only Happening for a while now.",Phishing / Email Security,P4
+T100218,please restore a deleted folder from last Tuesday for Chloe Can someone look asap?,Backup & Recovery,P3
+T100219,EDR high severity: suspicious PowerShell executing encoded commands on server Can someone look asap?,Endpoint Security Alert,P2
+T100220,FYI password expired and self service reset is failing for Mark Can someone look asap?,Account Access,P3
+T100221,Quick one: ransomware behaviour detected on multiple endpoints at Leeds site,Endpoint Security Alert,P1
+T100222,"Hi, firewall rule request: allow supplier IP to access web server Thanks.",Network / Firewall,P4
+T100223,fire wall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T100224,FYI VPN tunnel to head office keeps dropping every few minutes Not sure what changed.,Network / Firewall,P2
+T100225,FYI firewall rule request: allow supplier IP to access web server Happening for a while now.,Network / Firewall,P4
+T100226,"Qlik dashboard not refreshing, data is from last week Thanks.",Data & BI (Qlik / Alteryx),P4
+T100227,"Hello team, internet down at warehouse, nobody can get online Happening for a while now.",Network / Firewall,P1
+T100228,Please help - printer at warehouse jammed and showing error code Happening for a while now.,Hardware / Device,P4
+T100229,"FYI EDR alert: malware detected on Tom's laptop, quarantined automatically",Access / Change Request,P3
+T100230,Please help - month-end Qlik reload failed and finance needs numbers today Thanks.,Data & BI (Qlik / Alteryx),P2
+T100231,"Dave cannot log in, says password is incorrect Thanks.",Phishing / Email Security,P3
+T100232,"Hi, leaver today: please disable account and forward mailbox to manager Thanks.",Access / Change Request,P3
+T100233,URGENT: Alteryx workflow failed overnight with a connection error Thanks.,Data & BI (Qlik / Alteryx),P3
+T100234,"FYI storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100235,Please help - endpoint agent shows as out of date on Dave's device Happening for a while now.,Endpoint Security Alert,P4
+T100236,Quick one: AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T100237,"URGENT: need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100238,"Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T100239,URGENT: VPN tunnel to Leeds site keeps dropping every few minutes Can someone look asap?,Network / Firewall,P1
+T100240,"Hi, whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.",Account Access,P1
+T100241,"Hello team, laptop screen cracked, user is travelling and needs it for client demo Can someone look asap?",Hardware / Device,P2
+T100242,Please help - Teams meetings audio keeps cutting out for all staff at head office,Microsoft 365 / Software,P2
+T100243,Please help - request for a new column in the stock dashboard Can someone look asap?,Data & BI (Qlik / Alteryx),P4
+T100244,"URGENT: storage account nearing quota, alert triggered Can someone look asap?",Cloud (Azure / AWS),P3
+T100245,URGENT: SharePoint site access denied for Tom,Microsoft 365 / Software,P3
+T100246,"firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100247,"FYI Azure VM not responding, production web app is down Not sure what changed.",Cloud (Azure / AWS),P1
+T100248,FYI multiple staff at Newcastle office received same fake invoice email with link Happening for a while now.,Phishing / Email Security,P2
+T100249,"Please help - Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100250,"Please help - phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100251,Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100252,Please help - leaver today: please disable account and forward mailbox to manager Started today.,Access / Change Request,P3
+T100253,"Quick one: internet down at Leeds site, nobody can get online Can someone look asap?",Network / Firewall,P1
+T100254,URGENT: wifi not working in meeting room two only,Network / Firewall,P3
+T100255,"Hi, laptop will not turn on, battery light flashing Happening for a while now.",Hardware / Device,P3
+T100256,nightly backup failed again with error repository full,Backup & Recovery,P2
+T100257,"Hello team, phishing campaign: users reporting emails impersonating our MD, several clicked Not sure what changed.",Phishing / Email Security,P1
+T100258,monitor flickering on Emma's desk Can someone look asap?,Hardware / Device,P4
+T100259,"URGENT: need to restore whole VM from yesterday's snapshot, server corrupted Started today.",Backup & Recovery,P1
+T100260,"Please help - Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T100261,"URGENT: MFA prompt not arriving on new phone, locked out of everything Happening for a while now.",Account Access,P3
+T100262,Please help - VPN tunnel to Gateshead depot keeps dropping every few minutes,Network / Firewall,P2
+T100263,"Quick one: need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100264,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100265,Please help - multiple staff at warehouse received same fake invoice email with link,Phishing / Email Security,P2
+T100266,"Hello team, Teams meetings audio keeps cutting out for all staff at warehouse Not sure what changed.",Microsoft 365 / Software,P2
+T100267,"Hi, month-end Qlik reload failed and finance needs numbers today",Data & BI (Qlik / Alteryx),P2
+T100268,"Hello team, email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T100269,"cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P3
+T100270,"Please help - mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100271,"Hi, wifi not working in meeting room two only Started today.",Network / Firewall,P3
+T100272,printer at Newcastle office jammed and showing error code Can someone look asap?,Hardware / Device,P4
+T100273,"Quick one: suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P2
+T100274,"URGENT: Tom cannot log in, says password is incorrect Not sure what changed.",Account Access,P3
+T100275,"Hello team, password expired and self service reset is failing for Chloe",Account Access,P3
+T100276,FYI whole finance team getting 'account disabled' sign-in errors since 9am,Account Access,P1
+T100277,"cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P3
+T100278,"Hi, mailbox full, need quota increase Thanks.",Microsoft 365 / Software,P4
+T100279,URGENT: received a strange email asking me to verify my bank details Thanks.,Phishing / Email Security,P3
+T100280,"Please help - firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100281,request for a new column in the stock dashboard Started today.,Data & BI (Qlik / Alteryx),P4
+T100282,backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T100283,backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100284,"Please help - EDR alert: malware detected on Chloe's laptop, quarantined automatically Not sure what changed.",Endpoint Security Alert,P3
+T100285,SharePoint site access denied for Tom Thanks.,Microsoft 365 / Software,P3
+T100286,"Quick one: need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100287,FYI ransomware behaviour detected on multiple endpoints at London branch Thanks.,Endpoint Security Alert,P1
+T100288,URGENT: Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100289,Please help - AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T100290,FYI need licence for Visio for Lena,Access / Change Request,P4
+T100291,Please help - request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100292,"Hi, please restore a deleted folder from last Tuesday for Tom Happening for a while now.",Backup & Recovery,P3
+T100293,"laptop screen cracked, user is travelling and needs it for client demo Happening for a while now.",Hardware / Device,P2
+T100294,files renamed with .locked extension and ransom note on file server,Endpoint Security Alert,P1
+T100295,"Please help - EDR alert: malware detected on Ravi's laptop, quarantined automatically Thanks.",Endpoint Security Alert,P3
+T100296,Quick one: wifi not working in meeting room two only Started today.,Network / Firewall,P3
+T100297,Quick one: OneDrive keeps crashing when opening attachments,Microsoft 365 / Software,P3
+T100298,"URGENT: back up agent offline on file server, last success 3 days ago Can someone look asap?",Backup & Recovery,P2
+T100299,printer at warehouse jammed and showing error code,Hardware / Device,P4
+T100300,"URGENT: firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100301,"Account locked out after several attempts, user at Newcastle office",Account Access,P3
+T100302,please restore a deleted folder from last Tuesday for Priya,Backup & Recovery,P3
+T100303,"Hi, need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100304,printer at head office jammed and showing error code Thanks.,Hardware / Device,P4
+T100305,"is this email legitimate? looks odd, question only Can someone look asap?",Phishing / Email Security,P4
+T100306,Please help - printer at Leeds site jammed and showing error code,Hardware / Device,P4
+T100307,Please help - add Lena to the finance shared folder group Started today.,Access / Change Request,P4
+T100308,"Hello team, Emma cannot log in, says pasword is incorrect Thanks.",Account Access,P3
+T100309,Please help - request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100310,"MFA prompt not arriving on new phone, locked out of everything Started today.",Account Access,P3
+T100311,"Hi, MFA prompt not arriving on new phone, locked out of everything",Account Access,P3
+T100312,"phishing campaign: users reporting emials impersonating our MD, several clicked",Phishing / Email Security,P1
+T100313,ransomware behaviour detected on multiple endpoints at London branch Started today.,Endpoint Security Alert,P1
+T100314,add Dave to the finance shared folder group Can someone look asap?,Access / Change Request,P4
+T100315,"mailbox full, need quota increase Started today.",Microsoft 365 / Software,P4
+T100316,"Account locked out after several attempts, user at Newcastle office Thanks.",Account Access,P3
+T100317,"Hi, need licence for Visio for Dave Happening for a while now.",Access / Change Request,P4
+T100318,"I clicked a link in an email and entered my password, now worried",Phishing / Email Security,P2
+T100319,"Hello team, lap top will not turn on, battery light flashing Started today.",Hardware / Device,P2
+T100320,Quick one: request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P4
+T100321,FYI nightly backup failed again with error repository full Started today.,Endpoint Security Alert,P2
+T100322,"FYI urgent: terminated employee still has access to systems, disable now Thanks.",Access / Change Request,P2
+T100323,"FYI backup agent offline on file server, last success 3 days ago Happening for a while now.",Backup & Recovery,P2
+T100324,Please help - CEO locked out of account before board meeting in 30 minutes,Account Access,P1
+T100325,URGENT: sales report shows wrong totals after the latest data load Started today.,Data & BI (Qlik / Alteryx),P2
+T100326,backup report shows a warning on one job but completed Not sure what changed.,Backup & Recovery,P4
+T100327,"storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100328,received a strange email asking me to verify my bank details Thanks.,Phishing / Email Security,P3
+T100329,Quick one: sales report shows wrong totals after the latest data load Thanks.,Data & BI (Qlik / Alteryx),P2
+T100330,"Please help - new starter Aisha joining Monday, needs laptop, email and CRM access Started today.",Access / Change Request,P4
+T100331,"Hi, I clicked a link in an email and entered my password, now worried Not sure what changed.",Phishing / Email Security,P2
+T100332,"EDR alert: malware detected on Sam's laptop, quarantined automatically Happening for a while now.",Hardware / Device,P3
+T100333,"Hello team, backup agent offline on file server, last success 3 days ago Not sure what changed.",Backup & Recovery,P1
+T100334,SharePoint site access denied for Ravi Can someone look asap?,Microsoft 365 / Software,P3
+T100335,URGENT: VPN tunnel to Newcastle office keeps dropping every few minutes Not sure what changed.,Network / Firewall,P2
+T100336,"slow network for users at head office, pages take ages to load Started today.",Network / Firewall,P4
+T100337,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100338,leaver today: please disable account and forward mailbox to manager,Access / Change Request,P3
+T100339,URGENT: ransomware behaviour detected on multiple endpoints at London branch,Endpoint Security Alert,P1
+T100340,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100341,add Emma to the finance shared folder group Started today.,Access / Change Request,P4
+T100342,"EDR alert: malware detected on Sam's laptop, quarantined automatically",Endpoint Security Alert,P3
+T100343,URGENT: endpoint agent shows as out of date on Dave's device Can someone look asap?,Endpoint Security Alert,P4
+T100344,"FYI laptop screen cracked, user is travelling and needs it for client demo Started today.",Hardware / Device,P2
+T100345,sales report shows wrong totals after the latest data load Happening for a while now.,Data & BI (Qlik / Alteryx),P2
+T100346,back up report shows a warning on one job but completed Not sure what changed.,Backup & Recovery,P4
+T100347,URGENT: antivirus flagged a potentially unwanted program on a workstation Not sure what changed.,Endpoint Security Alert,P4
+T100348,"Quick one: Qlik dashboard not refreshing, data is from last week Happening for a while now.",Data & BI (Qlik / Alteryx),P3
+T100349,Quick one: printer at warehouse jammed and showing error code Thanks.,Hardware / Device,P4
+T100350,"Qlik dashboard not refreshing, data is from last week Started today.",Data & BI (Qlik / Alteryx),P3
+T100351,"Quick one: internet down at Gateshead depot, nobody can get online",Network / Firewall,P1
+T100352,"Hi, monitor flickering on Sam's desk Thanks.",Hardware / Device,P4
+T100353,"slow network for users at head office, pages take ages to load",Network / Firewall,P3
+T100354,"Hello team, add Sam to the finance shared folder group Not sure what changed.",Access / Change Request,P3
+T100355,Please help - password expired and self service reset is failing for Priya Not sure what changed.,Account Access,P3
+T100356,URGENT: firewall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T100357,Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100358,"Please help - suspicious email with attachment from unknown sender, did not open it Happening for a while now.",Phishing / Email Security,P3
+T100359,"Please help - suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P3
+T100360,"suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T100361,URGENT: monitor flickering on Tom's desk,Hardware / Device,P4
+T100362,FYI request for a new column in the stock dashboard Happening for a while now.,Data & BI (Qlik / Alteryx),P4
+T100363,"Hello team, Emma cannot log in, says password is incorrect Started today.",Account Access,P3
+T100364,"Hello team, phishing campaign: users reporting emails impersonating our MD, several clicked Happening for a while now.",Phishing / Email Security,P1
+T100365,Quick one: printer at Newcastle office jammed and showing error code Can someone look asap?,Hardware / Device,P4
+T100366,"Hello team, email not working for entire company, no one can send or receive Not sure what changed.",Microsoft 365 / Software,P1
+T100367,"Hi, is this email legitimate? looks odd, question only Happening for a while now.",Phishing / Email Security,P4
+T100368,FYI need licence for Visio for Tom Happening for a while now.,Cloud (Azure / AWS),P4
+T100369,"Azure VM not responding, production web app is down Started today.",Cloud (Azure / AWS),P1
+T100370,"Hi, firewall rule request: allow supplier IP to access web server Started today.",Network / Firewall,P4
+T100371,"mailbox full, need quota increase Can someone look asap?",Microsoft 365 / Software,P4
+T100372,"Hi, laptop will not turn on, battery light flashing Thanks.",Hardware / Device,P3
+T100373,Quick one: hard drive making clicking noise on a director's desktop,Data & BI (Qlik / Alteryx),P3
+T100374,"URGENT: I clicked a link in an email and entered my password, now worried Not sure what changed.",Phishing / Email Security,P2
+T100375,FYI multiple staff at Newcastle office received same fake invoice email with link Started today.,Phishing / Email Security,P2
+T100376,URGENT: password expired and self service reset is failing for Priya Can someone look asap?,Account Access,P3
+T100377,"Hi, Alteryx workflow failed overnight with a connection error",Data & BI (Qlik / Alteryx),P3
+T100378,Quick one: endpoint agent shows as out of date on Tom's device Can someone look asap?,Endpoint Security Alert,P4
+T100379,"Hi, need licence for Visio for Emma Not sure what changed.",Access / Change Request,P4
+T100380,Quick one: backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100381,"Hi, backup agent offline on file server, last success 3 days ago Can someone look asap?",Backup & Recovery,P2
+T100382,"I clicked a link in an email and entered my password, now worried",Phishing / Email Security,P2
+T100383,hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T100384,"cannot send emails from Outlook, stuck in outbox Not sure what changed.",Microsoft 365 / Software,P3
+T100385,"new starter Chloe joining Monday, needs laptop, email and CRM access",Access / Change Request,P4
+T100386,Quick one: multiple staff at warehouse received same fake invoice email with link Happening for a while now.,Phishing / Email Security,P2
+T100387,add Ravi to the finance shared folder group Thanks.,Access / Change Request,P4
+T100388,password expired and self service reset is failing for Ravi,Account Access,P3
+T100389,wifi not working in meeting room two only Started today.,Network / Firewall,P3
+T100390,"need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T100391,"Hello team, endpoint agent shows as out of date on Sam's device",Endpoint Security Alert,P3
+T100392,"Please help - new starter Priya joining Monday, needs laptop, email and CRM access",Access / Change Request,P4
+T100393,FYI add Dave to the finance shared folder group Can someone look asap?,Access / Change Request,P4
+T100394,CEO locked out of account before board meeting in 30 minutes,Account Access,P2
+T100395,"Hello team, VPN tunnel to London branch keeps dropping every few minutes",Network / Firewall,P2
+T100396,Teams meetings audio keeps cutting out for all staff at Newcastle office,Microsoft 365 / Software,P2
+T100397,how do I change my password? Can someone look asap?,Account Access,P4
+T100398,month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T100399,"laptop will not turn on, battery light flashing",Hardware / Device,P3
+T100400,"Qlik dashboard not refreshing, data is from last week Happening for a while now.",Data & BI (Qlik / Alteryx),P3
+T100401,SharePoint site access denied for Tom,Microsoft 365 / Software,P3
+T100402,"URGENT: cannot send emails from Outlook, stuck in outbox",Microsoft 365 / Software,P3
+T100403,"Quick one: need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100404,"Hi, firewall cluster failed over, primary unresponsive, site traffic unstable Started today.",Network / Firewall,P2
+T100405,Please help - monitor flickering on Chloe's desk,Hardware / Device,P4
+T100406,"Quick one: new starter Tom joining Monday, needs laptop, email and CRM access Not sure what changed.",Access / Change Request,P4
+T100407,"Hi, Azure app service is very slow since last deployment Happening for a while now.",Cloud (Azure / AWS),P2
+T100408,URGENT: multiple staff at warehouse received same fake invoice email with link,Hardware / Device,P2
+T100409,"laptop will not turn on, battery light flashing Can someone look asap?",Hardware / Device,P3
+T100410,"Hi, Teams meetings audio keeps cutting out for all staff at Newcastle office Not sure what changed.",Microsoft 365 / Software,P2
+T100411,"Hi, endpoint agent shows as out of date on Chloe's device",Endpoint Security Alert,P4
+T100412,request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100413,"Hi, laptop will not turn on, battery light flashing",Hardware / Device,P3
+T100414,Please help - request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100415,Quick one: SharePoint site access denied for Emma,Microsoft 365 / Software,P4
+T100416,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100417,"Hi, firewall rule request: allow supplier IP to access web server Can someone look asap?",Network / Firewall,P4
+T100418,FYI please restore a deleted folder from last Tuesday for Dave Can someone look asap?,Backup & Recovery,P3
+T100419,"Hello team, firewall cluster failed over, primary unresponsive, site traffic unstable Started today.",Network / Firewall,P2
+T100420,URGENT: backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100421,hard drive making clicking noise on a director's desktop,Hardware / Device,P2
+T100422,"backup agent offline on file server, last success 3 days ago Can someone look asap?",Backup & Recovery,P2
+T100423,FYI the CRM keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T100424,"URGENT: Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100425,"Hi, cannot send emails from Outlook, stuck in outbox Thanks.",Microsoft 365 / Software,P3
+T100426,please restore a deleted folder from last Tuesday for Ravi Happening for a while now.,Backup & Recovery,P3
+T100427,"Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100428,"FYI is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T100429,Please help - backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T100430,FYI EDR high severity: suspicious PowerShell executing encoded commands on server Not sure what changed.,Endpoint Security Alert,P2
+T100431,"Hi, new starter Lena joining Monday, needs laptop, email and CRM access",Access / Change Request,P4
+T100432,"Hello team, password expired and self service reset is failing for Mark",Account Access,P3
+T100433,"Hi, firewall rule request: allow supplier IP to access web server Started today.",Network / Firewall,P4
+T100434,"Hi, wifi not working in meeting room two only Thanks.",Network / Firewall,P3
+T100435,"firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100436,"Hi, leaver today: please disable account and forward mailbox to manager Can someone look asap?",Access / Change Request,P3
+T100437,"FYI EDR alert: malware detected on Dave's laptop, quarantined automatically",Endpoint Security Alert,P3
+T100438,received a strange email asking me to verify my bank details Can someone look asap?,Phishing / Email Security,P3
+T100439,Quick one: SharePoint site access denied for Dave,Microsoft 365 / Software,P3
+T100440,"URGENT: slow network for users at head office, pages take ages to load",Network / Firewall,P3
+T100441,FYI need licence for Visio for Emma,Access / Change Request,P4
+T100442,FYI antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100443,"Azure VM not responding, production web app is down Not sure what changed.",Cloud (Azure / AWS),P1
+T100444,"Quick one: Qlik dashboard not refreshing, data is from last week Started today.",Data & BI (Qlik / Alteryx),P3
+T100445,Quick one: request for a new column in the stock dashboard Not sure what changed.,Data & BI (Qlik / Alteryx),P4
+T100446,URGENT: backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T100447,URGENT: printer at Leeds site jammed and showing error code Not sure what changed.,Hardware / Device,P4
+T100448,"internet down at London branch, nobody can get online Can someone look asap?",Network / Firewall,P1
+T100449,"FYI Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100450,"FYI Azure VM not responding, production web app is down Not sure what changed.",Cloud (Azure / AWS),P1
+T100451,"FYI is this email legitimate? looks odd, question only",Phishing / Email Security,P4
+T100452,"Quick one: is this email legitimate? looks odd, question only",Phishing / Email Security,P4
+T100453,"Quick one: need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T100454,"slow network for users at warehouse, pages take ages to load",Network / Firewall,P3
+T100455,"FYI firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100456,FYI CEO locked out of account before board meeting in 30 minutes Happening for a while now.,Account Access,P2
+T100457,"Quick one: mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100458,please restore a deleted folder from last Tuesday for Tom Thanks.,Backup & Recovery,P3
+T100459,Please help - SharePoint site access denied for Aisha,Microsoft 365 / Software,P3
+T100460,backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100461,"Hello team, phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100462,"cannot send emails from Outlook, stuck in outbox",Microsoft 365 / Software,P3
+T100463,"Hi, files renamed with .locked extension and ransom note on file server Happening for a while now.",Endpoint Security Alert,P1
+T100464,"firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100465,"internet down at warehouse, nobody can get online",Network / Firewall,P1
+T100466,FYI firewall rule request: allow supplier IP to access web server Happening for a while now.,Network / Firewall,P4
+T100467,printer at London branch jammed and showing error code Happening for a while now.,Hardware / Device,P4
+T100468,"Hello team, MFA prompt not arriving on new phone, locked out of everything Thanks.",Account Access,P3
+T100469,"Hi, CEO locked out of account before board meeting in 30 minutes Started today.",Account Access,P2
+T100470,"URGENT: I clicked a link in an email and entered my password, now worried Can someone look asap?",Phishing / Email Security,P2
+T100471,FYI wifi not working in meeting room two only Not sure what changed.,Network / Firewall,P3
+T100472,Quick one: monitor flickering on Priya's desk,Hardware / Device,P4
+T100473,wifi not working in meeting room two only,Network / Firewall,P3
+T100474,"Mark cannot log in, says password is incorrect",Account Access,P3
+T100475,"slow network for users at Newcastle office, pages take ages to load Not sure what changed.",Network / Firewall,P3
+T100476,"FYI slow network for users at Newcastle office, pages take ages to load Thanks.",Network / Firewall,P3
+T100477,Please help - leaver today: please disable account and forward mailbox to manager Started today.,Access / Change Request,P3
+T100478,"FYI new starter Priya joining Monday, needs laptop, email and CRM access Started today.",Access / Change Request,P4
+T100479,"Hello team, storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100480,FYI sales report shows wrong totals after the latest data load Can someone look asap?,Data & BI (Qlik / Alteryx),P2
+T100481,Azure app service is very slow since last deployment Not sure what changed.,Cloud (Azure / AWS),P2
+T100482,URGENT: request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100483,Quick one: printer at Gateshead depot jammed and showing error code Started today.,Hardware / Device,P4
+T100484,"Hi, storage account nearing quota, alert triggered Can someone look asap?",Cloud (Azure / AWS),P3
+T100485,"I clicked a link in an email and entered my password, now worried Not sure what changed.",Phishing / Email Security,P2
+T100486,"Quick one: urgent: terminated employee still has access to systems, disable now Can someone look asap?",Access / Change Request,P2
+T100487,month-end Qlik reload failed and finance needs numbers today Happening for a while now.,Data & BI (Qlik / Alteryx),P2
+T100488,FYI monitor flickering on Chloe's desk Not sure what changed.,Hardware / Device,P3
+T100489,"Hello team, MFA prompt not arriving on new phone, locked out of everything",Account Access,P3
+T100490,"Please help - I clicked a link in an email and entered my password, now worried Thanks.",Phishing / Email Security,P2
+T100491,printer at Leeds site jammed and showing error code Thanks.,Hardware / Device,P4
+T100492,firewall rule request: allow supplier IP to access web server Not sure what changed.,Network / Firewall,P4
+T100493,"Hello team, wifi not working in meeting room two only",Network / Firewall,P3
+T100494,URGENT: month-end Qlik reload failed and finance needs numbers today Can someone look asap?,Data & BI (Qlik / Alteryx),P2
+T100495,URGENT: sales report shows wrong totals after the latest data load Thanks.,Data & BI (Qlik / Alteryx),P2
+T100496,Quick one: sales report shows wrong totals after the latest data load Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T100497,Please help - please restore a deleted folder from last Tuesday for Lena,Backup & Recovery,P3
+T100498,"Hello team, sales report shows wrong totals after the latest data load Not sure what changed.",Data & BI (Qlik / Alteryx),P2
+T100499,firewall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T100500,"Account locked out after several attempts, user at warehouse",Account Access,P3
+T100501,hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T100502,request to resize a test VM in Azure,Endpoint Security Alert,P4
+T100503,FYI files renamed with .locked extension and ransom note on file server Not sure what changed.,Endpoint Security Alert,P1
+T100504,"FYI email not working for entire company, no one can send or receive Can someone look asap?",Microsoft 365 / Software,P1
+T100505,"Hello team, password expired and self service reset is failing for Mark",Account Access,P2
+T100506,"Quick one: mailbox full, need quota increase Can someone look asap?",Microsoft 365 / Software,P4
+T100507,FYI need licence for Visio for Lena Happening for a while now.,Access / Change Request,P4
+T100508,"Please help - laptop screen cracked, user is travelling and needs it for client demo Thanks.",Hardware / Device,P2
+T100509,"Hi, sales report shows wrong totals after the latest data load",Data & BI (Qlik / Alteryx),P2
+T100510,Quick one: multiple staff at London branch received same fake invoice email with link Thanks.,Phishing / Email Security,P2
+T100511,leaver today: please disable account and forward mailbox to manager Not sure what changed.,Access / Change Request,P3
+T100512,"Quick one: cannot send emails from Outlook, stuck in outbox Started today.",Microsoft 365 / Software,P3
+T100513,FYI nightly backup failed again with error repository full Not sure what changed.,Backup & Recovery,P2
+T100514,"Please help - laptop will not turn on, battery light flashing Not sure what changed.",Hardware / Device,P3
+T100515,"Hello team, CEO locked out of account before board meeting in 30 minutes Started today.",Account Access,P2
+T100516,"Hello team, wifi not working in meeting room two only Thanks.",Network / Firewall,P2
+T100517,request to resize a test VM in Azure Can someone look asap?,Cloud (Azure / AWS),P4
+T100518,need licence for Visio for Chloe Started today.,Access / Change Request,P4
+T100519,"I clicked a link in an emial and entered my password, now worried",Phishing / Email Security,P2
+T100520,Please help - files renamed with .locked extension and ransom note on file server Started today.,Microsoft 365 / Software,P1
+T100521,"Hi, slow network for users at London branch, pages take ages to load",Network / Firewall,P3
+T100522,"phishing campaign: users reporting emails impersonating our MD, several clicked Not sure what changed.",Phishing / Email Security,P1
+T100523,need licence for Visio for Dave Started today.,Access / Change Request,P4
+T100524,Quick one: firewall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T100525,"Ravi cannot log in, says password is incorrect",Account Access,P2
+T100526,"Please help - Emma cannot log in, says password is incorrect Not sure what changed.",Account Access,P3
+T100527,antivirus flagged a potentially unwanted program on a workstation Thanks.,Endpoint Security Alert,P4
+T100528,"Please help - email not working for entire company, no one can send or receive Started today.",Microsoft 365 / Software,P2
+T100529,FYI how do I change my password?,Account Access,P4
+T100530,"firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T100531,"email not working for entire company, no one can send or receive Happening for a while now.",Microsoft 365 / Software,P1
+T100532,URGENT: multiple staff at head office received same fake invoice email with link Started today.,Phishing / Email Security,P2
+T100533,"Hi, ransomware behaviour detected on multiple endpoints at Gateshead depot Happening for a while now.",Endpoint Security Alert,P1
+T100534,SharePoint site access denied for Dave Can someone look asap?,Microsoft 365 / Software,P3
+T100535,"URGENT: Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100536,wifi not working in meeting room two only,Network / Firewall,P3
+T100537,"Hello team, suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P3
+T100538,Quick one: whole finance team getting 'account disabled' sign-in errors since 9am,Account Access,P1
+T100539,URGENT: multiple staff at Newcastle office received same fake invoice email with link Started today.,Phishing / Email Security,P2
+T100540,how do I change my password? Happening for a while now.,Account Access,P3
+T100541,Please help - AWS S3 bucket permissions error for the reporting service Not sure what changed.,Cloud (Azure / AWS),P3
+T100542,URGENT: printer at Leeds site jammed and showing error code,Hardware / Device,P4
+T100543,"Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100544,"FYI suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T100545,Please help - received a strange email asking me to verify my bank details Started today.,Phishing / Email Security,P3
+T100546,Quick one: add Tom to the finance shared folder group,Access / Change Request,P4
+T100547,antivirus flagged a potentially unwanted program on a workstation Thanks.,Endpoint Security Alert,P4
+T100548,"Qlik dashboard not refreshing, data is from last week Can someone look asap?",Data & BI (Qlik / Alteryx),P2
+T100549,"Hello team, AWS S3 bucket permissions error for the reporting service Not sure what changed.",Cloud (Azure / AWS),P3
+T100550,"urgent: terminated employee still has access to systems, disable now Can someone look asap?",Access / Change Request,P2
+T100551,"I clicked a link in an email and entered my password, now worried",Phishing / Email Security,P2
+T100552,"Please help - EDR alert: malware detected on Sam's laptop, quarantined automatically Thanks.",Endpoint Security Alert,P3
+T100553,files renamed with .locked extension and ransom note on file server Thanks.,Endpoint Security Alert,P1
+T100554,"URGENT: new starter Aisha joining Monday, needs laptop, email and CRM access Not sure what changed.",Access / Change Request,P4
+T100555,"Hello team, EDR high severity: suspicious PowerShell executing encoded commands on server",Endpoint Security Alert,P2
+T100556,URGENT: need licence for Visio for Mark Happening for a while now.,Access / Change Request,P4
+T100557,"is this email legitimate? looks odd, question only Happening for a while now.",Phishing / Email Security,P4
+T100558,FYI VPN tunnel to London branch keeps dropping every few minutes Thanks.,Network / Firewall,P2
+T100559,VPN tunnel to Leeds site keeps dropping every few minutes Started today.,Network / Firewall,P2
+T100560,Please help - antivirus flagged a potentially unwanted program on a workstation Can someone look asap?,Endpoint Security Alert,P4
+T100561,Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T100562,"Hi, phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100563,URGENT: wifi not working in meeting room two only,Network / Firewall,P3
+T100564,AWS S3 bucket permissions error for the reporting service Can someone look asap?,Cloud (Azure / AWS),P3
+T100565,Quick one: AWS S3 bucket permissions error for the reporting service Started today.,Cloud (Azure / AWS),P3
+T100566,Please help - need licence for Visio for Dave,Access / Change Request,P4
+T100567,leaver today: please disable account and forward mailbox to manager Happening for a while now.,Access / Change Request,P3
+T100568,"Hello team, month-end Qlik reload failed and finance needs numbers today Not sure what changed.",Data & BI (Qlik / Alteryx),P2
+T100569,VPN tunnel to London branch keeps dropping every few minutes,Network / Firewall,P2
+T100570,Quick one: VPN tunnel to warehouse keeps dropping every few minutes,Network / Firewall,P2
+T100571,"storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100572,"FYI firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100573,ransomware behaviour detected on multiple endpoints at Leeds site,Endpoint Security Alert,P2
+T100574,"Hi, Teams meetings audio keeps cutting out for all staff at Newcastle office",Microsoft 365 / Software,P2
+T100575,"Hi, mailbox full, need quota increase Thanks.",Microsoft 365 / Software,P4
+T100576,FYI CEO locked out of account before board meeting in 30 minutes Can someone look asap?,Account Access,P2
+T100577,URGENT: leaver today: please disable account and forward mailbox to manager,Access / Change Request,P3
+T100578,Please help - sales report shows wrong totals after the latest data load,Data & BI (Qlik / Alteryx),P2
+T100579,"URGENT: phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100580,"Hello team, how do I change my password? Not sure what changed.",Account Access,P4
+T100581,hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T100582,Please help - password expired and self service reset is failing for Emma Started today.,Account Access,P3
+T100583,Quick one: backup report shows a warning on one job but completed Not sure what changed.,Backup & Recovery,P4
+T100584,Quick one: Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T100585,"FYI laptop screen cracked, user is travelling and needs it for client demo Thanks.",Hardware / Device,P2
+T100586,"URGENT: MFA prompt not arriving on new phone, locked out of everything",Account Access,P3
+T100587,URGENT: received a strange email asking me to verify my bank details Not sure what changed.,Phishing / Email Security,P3
+T100588,"Quick one: cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P4
+T100589,URGENT: ransomware behaviour detected on multiple endpoints at Newcastle office Started today.,Hardware / Device,P1
+T100590,VPN tunnel to Gateshead depot keeps dropping every few minutes,Network / Firewall,P2
+T100591,endpoint agent shows as out of date on Sam's device Not sure what changed.,Endpoint Security Alert,P4
+T100592,Alteryx workflow failed overnight with a connection error Started today.,Data & BI (Qlik / Alteryx),P3
+T100593,"mailbox full, need quota increase Thanks.",Microsoft 365 / Software,P4
+T100594,FYI sales report shows wrong totals after the latest data load,Data & BI (Qlik / Alteryx),P3
+T100595,"internet down at head office, nobody can get online Started today.",Data & BI (Qlik / Alteryx),P2
+T100596,"Hello team, Azure app service is very slow since last deployment Started today.",Cloud (Azure / AWS),P2
+T100597,"FYI backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T100598,"backup agent offline on file server, last success 3 days ago Can someone look asap?",Backup & Recovery,P2
+T100599,nightly backup failed again with error repository full Happening for a while now.,Backup & Recovery,P2
+T100600,"Hello team, is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T100601,"internet down at Gateshead depot, nobody can get online Not sure what changed.",Network / Firewall,P1
+T100602,"Hello team, SharePoint site access denied for Aisha Started today.",Microsoft 365 / Software,P3
+T100603,Quick one: files renamed with .locked extension and ransom note on file server,Endpoint Security Alert,P1
+T100604,ransomware behaviour detected on multiple endpoints at Leeds site Happening for a while now.,Endpoint Security Alert,P1
+T100605,Please help - how do I change my password? Happening for a while now.,Account Access,P4
+T100606,Please help - SharePoint site access denied for Priya Happening for a while now.,Microsoft 365 / Software,P3
+T100607,Quick one: nightly backup failed again with error repository full Started today.,Backup & Recovery,P2
+T100608,"Please help - laptop will not turn on, battery light flashing Started today.",Hardware / Device,P3
+T100609,backup report shows a warning on one job but completed Not sure what changed.,Backup & Recovery,P4
+T100610,"Hello team, AWS S3 bucket permissions error for the reporting service Happening for a while now.",Cloud (Azure / AWS),P3
+T100611,received a strange email asking me to verify my bank details Can someone look asap?,Network / Firewall,P3
+T100612,"Please help - EDR alert: malware detected on Mark's laptop, quarantined automatically Happening for a while now.",Endpoint Security Alert,P3
+T100613,Quick one: hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T100614,monitor flickering on Mark's desk,Hardware / Device,P4
+T100615,Please help - monitor flickering on Priya's desk Not sure what changed.,Hardware / Device,P4
+T100616,"FYI suspicious email with attachment from unknown sender, did not open it Not sure what changed.",Phishing / Email Security,P3
+T100617,FYI need licence for Visio for Chloe Can someone look asap?,Access / Change Request,P4
+T100618,need licence for Visio for Chloe Not sure what changed.,Access / Change Request,P4
+T100619,"FYI slow network for users at Gateshead depot, pages take ages to load",Network / Firewall,P3
+T100620,whole finance team getting 'account disabled' sign-in errors since 9am Started today.,Account Access,P2
+T100621,"Hello team, mailbox full, need quota increase Can someone look asap?",Microsoft 365 / Software,P4
+T100622,Quick one: request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100623,received a strange email asking me to verify my bank details,Phishing / Email Security,P3
+T100624,sales report shows wrong totals after the latest data load,Data & BI (Qlik / Alteryx),P2
+T100625,Quick one: antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100626,"Quick one: Account locked out after several attempts, user at Leeds site Happening for a while now.",Account Access,P3
+T100627,URGENT: please restore a deleted folder from last Tuesday for Emma,Backup & Recovery,P3
+T100628,"Quick one: need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T100629,Quick one: backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T100630,"Please help - new starter Ravi joining Monday, needs laptop, email and CRM access Can someone look asap?",Access / Change Request,P4
+T100631,"Hi, multiple staff at London branch received same fake invoice email with link Thanks.",Phishing / Email Security,P2
+T100632,ransomware behaviour detected on multiple endpoints at London branch,Endpoint Security Alert,P1
+T100633,antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P3
+T100634,whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.,Account Access,P1
+T100635,Quick one: nightly backup failed again with error repository full,Backup & Recovery,P2
+T100636,printer at Leeds site jammed and showing error code Can someone look asap?,Hardware / Device,P4
+T100637,add Mark to the finance shared folder group Not sure what changed.,Access / Change Request,P4
+T100638,Please help - the finance system keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T100639,"Hello team, Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T100640,"URGENT: urgent: terminated employee still has access to systems, disable now Happening for a while now.",Access / Change Request,P2
+T100641,SharePoint site access denied for Dave Thanks.,Microsoft 365 / Software,P3
+T100642,"Hello team, phishing campaign: users reporting emails impersonating our MD, several clicked Happening for a while now.",Phishing / Email Security,P1
+T100643,"Hi, EDR alert: malware detected on Chloe's laptop, quarantined automatically",Endpoint Security Alert,P3
+T100644,URGENT: month-end Qlik reload failed and finance needs numbers today Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T100645,"Hi, leaver today: please disable account and forward mailbox to manager Not sure what changed.",Access / Change Request,P3
+T100646,"URGENT: mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100647,FYI request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100648,"need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T100649,add Priya to the finance shared folder group,Access / Change Request,P4
+T100650,"URGENT: suspicious email with attachment from unknown sender, did not open it Happening for a while now.",Phishing / Email Security,P3
+T100651,"backup agent offline on file server, last success 3 days ago Started today.",Backup & Recovery,P2
+T100652,ransomware behaviour detected on multiple endpoints at warehouse,Endpoint Security Alert,P1
+T100653,"urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T100654,"Hello team, email not working for entire company, no one can send or receive Not sure what changed.",Microsoft 365 / Software,P1
+T100655,need licence for Visio for Tom Can someone look asap?,Access / Change Request,P3
+T100656,"FYI internet down at head office, nobody can get online Thanks.",Network / Firewall,P1
+T100657,Quick one: leaver today: please disable account and forward mailbox to manager Not sure what changed.,Access / Change Request,P3
+T100658,URGENT: EDR high severity: suspicious PowerShell executing encoded commands on server Not sure what changed.,Endpoint Security Alert,P1
+T100659,"Hi, urgent: terminated employee still has access to systems, disable now Not sure what changed.",Access / Change Request,P2
+T100660,antivirus flagged a potentially unwanted program on a workstation Thanks.,Endpoint Security Alert,P4
+T100661,"Azure VM not responding, production web app is down Happening for a while now.",Cloud (Azure / AWS),P1
+T100662,"Hello team, need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T100663,how do I change my password? Started today.,Account Access,P4
+T100664,"Hi, suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P3
+T100665,"cannot reach the cloud database from the app, timeouts started this morning Happening for a while now.",Cloud (Azure / AWS),P2
+T100666,"suspicious email with attachment from unknown sender, did not open it Happening for a while now.",Phishing / Email Security,P4
+T100667,"Quick one: internet down at Gateshead depot, nobody can get online",Network / Firewall,P1
+T100668,"Hello team, urgent: terminated employee still has access to systems, disable now Thanks.",Access / Change Request,P2
+T100669,Alteryx workflow failed overnight with a connection error Not sure what changed.,Data & BI (Qlik / Alteryx),P3
+T100670,"backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T100671,FYI month-end Qlik reload failed and finance needs numbers today Thanks.,Data & BI (Qlik / Alteryx),P2
+T100672,Please help - need licence for Visio for Lena Started today.,Access / Change Request,P4
+T100673,"Hi, firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100674,"Hi, email not working for entire company, no one can send or receive Started today.",Microsoft 365 / Software,P1
+T100675,"Quick one: Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T100676,"URGENT: firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100677,monitor flickering on Mark's desk Can someone look asap?,Hardware / Device,P4
+T100678,"FYI firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100679,"Hi, add Aisha to the finance shared folder group Started today.",Access / Change Request,P4
+T100680,FYI files renamed with .locked extension and ransom note on file server Not sure what changed.,Endpoint Security Alert,P1
+T100681,URGENT: Alteryx workflow failed overnight with a connection error Can someone look asap?,Data & BI (Qlik / Alteryx),P4
+T100682,"Hello team, backup report shows a warning on one job but completed",Backup & Recovery,P4
+T100683,URGENT: please restore a deleted folder from last Tuesday for Aisha,Backup & Recovery,P3
+T100684,Quick one: add Lena to the finance shared folder group,Microsoft 365 / Software,P4
+T100685,"FYI need to restore whole VM from yesterday's snapshot, server corrupted Started today.",Backup & Recovery,P1
+T100686,"Quick one: is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T100687,Please help - backup report shows a warning on one job but completed Thanks.,Backup & Recovery,P4
+T100688,"Hello team, cannot reach the cloud database from the app, timeouts started this morning Thanks.",Cloud (Azure / AWS),P2
+T100689,URGENT: CEO locked out of account before board meeting in 30 minutes,Account Access,P2
+T100690,"Hello team, printer at head office jammed and showing error code Started today.",Hardware / Device,P4
+T100691,"Quick one: Account locked out after several attempts, user at London branch Can someone look asap?",Account Access,P3
+T100692,monitor flickering on Emma's desk Thanks.,Hardware / Device,P4
+T100693,"EDR alert: malware detected on Emma's laptop, quarantined automatically Happening for a while now.",Endpoint Security Alert,P3
+T100694,"email not working for entire company, no one can send or receive Happening for a while now.",Microsoft 365 / Software,P1
+T100695,Quick one: request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P4
+T100696,Quick one: Teams keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T100697,"Please help - is this email legitimate? looks odd, question only Can someone look asap?",Phishing / Email Security,P4
+T100698,"MFA prompt not arriving on new phone, locked out of everything Can someone look asap?",Account Access,P4
+T100699,"URGENT: backup agent offline on file server, last success 3 days ago Happening for a while now.",Backup & Recovery,P2
+T100700,request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100701,URGENT: endpoint agent shows as out of date on Mark's device,Endpoint Security Alert,P4
+T100702,Quick one: backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T100703,FYI backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100704,URGENT: nightly backup failed again with error repository full,Backup & Recovery,P2
+T100705,antivirus flagged a potentially unwanted program on a workstation Thanks.,Endpoint Security Alert,P4
+T100706,please restore a deleted folder from last Tuesday for Tom,Backup & Recovery,P3
+T100707,"Quick one: Ravi cannot log in, says password is incorrect",Account Access,P4
+T100708,"Hi, how do I change my password?",Account Access,P3
+T100709,FYI request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P3
+T100710,Azure app service is very slow since last deployment Thanks.,Cloud (Azure / AWS),P2
+T100711,"suspicious email with attachment from unknown sender, did not open it Started today.",Phishing / Email Security,P3
+T100712,"laptop will not turn on, battery light flashing",Hardware / Device,P3
+T100713,"Please help - new starter Lena joining Monday, needs laptop, email and CRM access Can someone look asap?",Access / Change Request,P4
+T100714,"Please help - cannot send emails from Outlook, stuck in outbox Thanks.",Microsoft 365 / Software,P3
+T100715,antivirus flagged a potentially unwanted program on a workstation Happening for a while now.,Endpoint Security Alert,P4
+T100716,"need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100717,"Quick one: laptop will not turn on, battery light flashing Can someone look asap?",Hardware / Device,P3
+T100718,Please help - printer at London branch jammed and showing error code Not sure what changed.,Hardware / Device,P4
+T100719,"MFA prompt not arriving on new phone, locked out of everything",Account Access,P3
+T100720,URGENT: leaver today: please disable account and forward mailbox to manager,Access / Change Request,P3
+T100721,Quick one: firewall rule request: allow supplier IP to access web server Not sure what changed.,Network / Firewall,P4
+T100722,wifi not working in meeting room two only Happening for a while now.,Network / Firewall,P3
+T100723,"Hello team, new starter Tom joining Monday, needs laptop, email and CRM access",Access / Change Request,P4
+T100724,FYI OneDrive keeps crashing when opening attachments Not sure what changed.,Microsoft 365 / Software,P3
+T100725,URGENT: printer at Gateshead depot jammed and showing error code Can someone look asap?,Hardware / Device,P3
+T100726,URGENT: EDR high severity: suspicious PowerShell executing encoded commands on server Happening for a while now.,Endpoint Security Alert,P2
+T100727,"Hello team, leaver today: please disable account and forward mailbox to manager",Access / Change Request,P4
+T100728,Quick one: nightly backup failed again with error repository full Happening for a while now.,Backup & Recovery,P2
+T100729,"Please help - mailbox full, need quota increase Started today.",Microsoft 365 / Software,P4
+T100730,URGENT: Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100731,"Hello team, email not working for entire company, no one can send or receive Can someone look asap?",Microsoft 365 / Software,P1
+T100732,URGENT: whole finance team getting 'account disabled' sign-in errors since 9am Can someone look asap?,Account Access,P1
+T100733,"Hello team, whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.",Account Access,P1
+T100734,FYI request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100735,Quick one: backup report shows a warning on one job but completed Can someone look asap?,Backup & Recovery,P4
+T100736,URGENT: hard drive making clicking noise on a director's desktop Not sure what changed.,Hardware / Device,P3
+T100737,"Hi, laptop screen cracked, user is travelling and needs it for client demo Happening for a while now.",Hardware / Device,P2
+T100738,"suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T100739,"Hello team, laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T100740,"urgent: terminated employee still has access to systems, disable now Started today.",Access / Change Request,P2
+T100741,printer at warehouse jammed and showing error code Thanks.,Hardware / Device,P4
+T100742,"Hi, phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100743,monitor flickering on Dave's desk,Hardware / Device,P4
+T100744,received a strange email asking me to verify my bank details Started today.,Phishing / Email Security,P3
+T100745,URGENT: Alteryx workflow failed overnight with a connection error Can someone look asap?,Data & BI (Qlik / Alteryx),P2
+T100746,URGENT: Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100747,"Hi, urgent: terminated employee still has access to systems, disable now Can someone look asap?",Access / Change Request,P2
+T100748,endpoint agent shows as out of date on Dave's device Not sure what changed.,Endpoint Security Alert,P4
+T100749,"FYI laptop will not turn on, battery light flashing",Hardware / Device,P3
+T100750,files renamed with .locked extension and ransom note on file server Not sure what changed.,Endpoint Security Alert,P1
+T100751,sales report shows wrong totals after the latest data load Thanks.,Data & BI (Qlik / Alteryx),P2
+T100752,Quick one: backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100753,Alteryx workflow failed overnight with a connection error Happening for a while now.,Data & BI (Qlik / Alteryx),P3
+T100754,"Hi, Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T100755,"Hello team, nightly backup failed again with error repository full",Backup & Recovery,P2
+T100756,Quick one: need licence for Visio for Dave,Access / Change Request,P4
+T100757,Please help - sales report shows wrong totals after the latest data load Thanks.,Data & BI (Qlik / Alteryx),P2
+T100758,"storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100759,Quick one: Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100760,"Hello team, monitor flickering on Dave's desk",Hardware / Device,P3
+T100761,ransomware behaviour detected on multiple endpoints at London branch,Endpoint Security Alert,P1
+T100762,printer at Gateshead depot jammed and showing error code Can someone look asap?,Hardware / Device,P4
+T100763,"FYI cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P3
+T100764,"Hello team, Teams meetings audio keeps cutting out for all staff at warehouse Can someone look asap?",Microsoft 365 / Software,P2
+T100765,"Quick one: cannot send emails from Outlook, stuck in outbox",Data & BI (Qlik / Alteryx),P2
+T100766,"need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T100767,SharePoint keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T100768,"Hi, slow network for users at London branch, pages take ages to load",Network / Firewall,P3
+T100769,"URGENT: Account locked out after several attempts, user at London branch",Account Access,P3
+T100770,ransomware behaviour detected on multiple endpoints at head office,Endpoint Security Alert,P1
+T100771,Quick one: request for a new column in the stock dashboard Started today.,Data & BI (Qlik / Alteryx),P4
+T100772,"Hello team, suspicious email with attachment from unknown sender, did not open it Started today.",Phishing / Email Security,P3
+T100773,multiple staff at warehouse received same fake invoice email with link Thanks.,Phishing / Email Security,P2
+T100774,AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T100775,request for a new column in the stock dashboard Started today.,Data & BI (Qlik / Alteryx),P4
+T100776,Teams meetings audio keeps cutting out for all staff at Gateshead depot Happening for a while now.,Microsoft 365 / Software,P2
+T100777,"Quick one: laptop will not turn on, battery light flashing Thanks.",Hardware / Device,P3
+T100778,"Quick one: firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T100779,Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T100780,"Hello team, laptop will not turn on, battery light flashing Started today.",Hardware / Device,P3
+T100781,whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.,Account Access,P1
+T100782,"Hello team, is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T100783,nightly backup failed again with error repository full Happening for a while now.,Microsoft 365 / Software,P1
+T100784,"Quick one: email not working for entire company, no one can send or receive Can someone look asap?",Microsoft 365 / Software,P1
+T100785,printer at Leeds site jammed and showing error code Thanks.,Hardware / Device,P4
+T100786,"Hi, leaver today: please disable account and forward mailbox to manager Happening for a while now.",Access / Change Request,P3
+T100787,"Please help - MFA prompt not arriving on new phone, locked out of everything",Account Access,P3
+T100788,"Hi, SharePoint site access denied for Sam Thanks.",Microsoft 365 / Software,P3
+T100789,"Please help - EDR alert: malware detected on Priya's laptop, quarantined automatically Happening for a while now.",Endpoint Security Alert,P3
+T100790,"Quick one: slow network for users at warehouse, pages take ages to load Not sure what changed.",Network / Firewall,P2
+T100791,Please help - ransomware behaviour detected on multiple endpoints at head office Not sure what changed.,Endpoint Security Alert,P1
+T100792,"Hi, laptop will not turn on, battery light flashing Not sure what changed.",Hardware / Device,P3
+T100793,Please help - ransomware behaviour detected on multiple endpoints at Leeds site Happening for a while now.,Endpoint Security Alert,P1
+T100794,"cannot send emials from Outlook, stuck in outbox Not sure what changed.",Microsoft 365 / Software,P3
+T100795,"FYI laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T100796,please restore a deleted folder from last Tuesday for Ravi Started today.,Backup & Recovery,P3
+T100797,"URGENT: storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100798,Quick one: wifi not working in meeting room two only Not sure what changed.,Network / Firewall,P3
+T100799,"FYI phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T100800,FYI antivirus flagged a potentially unwanted program on a workstation Not sure what changed.,Endpoint Security Alert,P4
+T100801,Please help - antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T100802,Please help - VPN tunnel to head office keeps dropping every few minutes Started today.,Network / Firewall,P2
+T100803,Please help - firewall rule request: allow supplier IP to access web server Happening for a while now.,Network / Firewall,P4
+T100804,"firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100805,EDR high severity: suspicious PowerShell executing encoded commands on server Happening for a while now.,Endpoint Security Alert,P2
+T100806,Please help - received a strange email asking me to verify my bank details Can someone look asap?,Phishing / Email Security,P3
+T100807,Please help - request for a new column in the stock dashboard Not sure what changed.,Data & BI (Qlik / Alteryx),P4
+T100808,"Please help - is this email legitimate? looks odd, question only Thanks.",Phishing / Email Security,P4
+T100809,"Hi, monitor flickering on Ravi's desk",Hardware / Device,P4
+T100810,"Hello team, nightly backup failed again with error repository full Thanks.",Backup & Recovery,P2
+T100811,"FYI internet down at head office, nobody can get online Started today.",Network / Firewall,P1
+T100812,"Hi, is this email legitimate? looks odd, question only Thanks.",Phishing / Email Security,P4
+T100813,"FYI is this email legitimate? looks odd, question only Thanks.",Phishing / Email Security,P4
+T100814,Please help - files renamed with .locked extension and ransom note on file server Happening for a while now.,Endpoint Security Alert,P1
+T100815,"FYI storage account nearing quota, alert triggered Happening for a while now.",Cloud (Azure / AWS),P3
+T100816,Quick one: request for a new column in the stock dashboard Not sure what changed.,Data & BI (Qlik / Alteryx),P4
+T100817,VPN tunnel to London branch keeps dropping every few minutes,Backup & Recovery,P2
+T100818,"Please help - slow network for users at Gateshead depot, pages take ages to load",Network / Firewall,P3
+T100819,"Hello team, MFA prompt not arriving on new phone, locked out of everything Not sure what changed.",Account Access,P3
+T100820,Quick one: add Mark to the finance shared folder group,Access / Change Request,P3
+T100821,"Please help - I clicked a link in an email and entered my password, now worried Not sure what changed.",Phishing / Email Security,P2
+T100822,Quick one: backup report shows a warning on one job but completed,Backup & Recovery,P4
+T100823,URGENT: multiple staff at Leeds site received same fake invoice email with link,Phishing / Email Security,P2
+T100824,"Hello team, how do I change my password?",Account Access,P4
+T100825,"Hi, wifi not working in meeting room two only Not sure what changed.",Network / Firewall,P2
+T100826,Quick one: Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T100827,"urgent: terminated employee still has access to systems, disable now Happening for a while now.",Access / Change Request,P2
+T100828,"Ravi cannot log in, says password is incorrect",Account Access,P3
+T100829,monitor flickering on Sam's desk,Hardware / Device,P4
+T100830,"need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100831,"Hello team, mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100832,"FYI urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T100833,FYI request for a new column in the stock dashboard Thanks.,Data & BI (Qlik / Alteryx),P4
+T100834,Quick one: please restore a deleted folder from last Tuesday for Ravi,Backup & Recovery,P3
+T100835,"Hello team, nightly backup failed again with error repository full Happening for a while now.",Backup & Recovery,P2
+T100836,"FYI slow network for users at Leeds site, pages take ages to load",Network / Firewall,P3
+T100837,FYI backup report shows a warning on one job but completed Started today.,Backup & Recovery,P4
+T100838,URGENT: Teams meetings audio keeps cutting out for all staff at London branch Thanks.,Backup & Recovery,P2
+T100839,need licence for Visio for Chloe Happening for a while now.,Access / Change Request,P4
+T100840,hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T100841,"Please help - MFA prompt not arriving on new phone, locked out of everything",Account Access,P3
+T100842,password expired and self service reset is failing for Lena Thanks.,Account Access,P3
+T100843,"Hello team, antivirus flagged a potentially unwanted program on a workstation Thanks.",Endpoint Security Alert,P4
+T100844,"Hi, month-end Qlik reload failed and finance needs numbers today Happening for a while now.",Data & BI (Qlik / Alteryx),P2
+T100845,VPN tunnel to London branch keeps dropping every few minutes,Network / Firewall,P2
+T100846,"Hello team, suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P4
+T100847,the CRM keeps crashing when opening attachments Started today.,Microsoft 365 / Software,P3
+T100848,firewall rule request: allow supplier IP to access web server Thanks.,Network / Firewall,P4
+T100849,monitor flickering on Lena's desk Thanks.,Hardware / Device,P4
+T100850,AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T100851,"Hi, EDR high severity: suspicious PowerShell executing encoded commands on server Started today.",Endpoint Security Alert,P2
+T100852,"Azure VM not responding, production web app is down Not sure what changed.",Cloud (Azure / AWS),P1
+T100853,"urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T100854,"FYI laptop will not turn on, battery light flashing",Hardware / Device,P3
+T100855,monitor flickering on Emma's desk Not sure what changed.,Hardware / Device,P4
+T100856,received a strange email asking me to verify my bank details Not sure what changed.,Phishing / Email Security,P3
+T100857,"Hi, need licence for Visio for Priya",Access / Change Request,P4
+T100858,multiple staff at Leeds site received same fake invoice email with link,Phishing / Email Security,P2
+T100859,EDR high severity: suspicious PowerShell executing encoded commands on server,Endpoint Security Alert,P2
+T100860,need licence for Visio for Emma,Access / Change Request,P4
+T100861,"Hi, urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T100862,"URGENT: mailbox full, need quota increase Can someone look asap?",Microsoft 365 / Software,P4
+T100863,"Hi, urgent: terminated employee still has access to systems, disable now Thanks.",Access / Change Request,P2
+T100864,endpoint agent shows as out of date on Dave's device,Account Access,P4
+T100865,"URGENT: backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T100866,FYI Azure app service is very slow since last deployment Thanks.,Cloud (Azure / AWS),P3
+T100867,leaver today: please disable account and forward mailbox to manager Started today.,Access / Change Request,P3
+T100868,Please help - endpoint agent shows as out of date on Tom's device,Endpoint Security Alert,P4
+T100869,"Hi, printer at Gateshead depot jammed and showing error code",Hardware / Device,P4
+T100870,"Hello team, Alteryx workflow failed overnight with a connection error",Data & BI (Qlik / Alteryx),P3
+T100871,request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100872,"slow network for users at Gateshead depot, pages take ages to load Started today.",Network / Firewall,P3
+T100873,SharePoint site access denied for Mark Thanks.,Microsoft 365 / Software,P3
+T100874,monitor flickering on Mark's desk Started today.,Hardware / Device,P4
+T100875,month-end Qlik reload failed and finance needs numbers today Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T100876,"Hello team, lap top screen cracked, user is travelling and needs it for client demo Happening for a while now.",Hardware / Device,P2
+T100877,"FYI EDR alert: malware detected on Mark's laptop, quarantined automatically",Endpoint Security Alert,P3
+T100878,"URGENT: MFA prompt not arriving on new phone, locked out of everything Thanks.",Account Access,P3
+T100879,FYI Alteryx workflow failed overnight with a connection error Can someone look asap?,Data & BI (Qlik / Alteryx),P3
+T100880,"Quick one: laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T100881,"FYI storage account nearing quota, alert triggered Not sure what changed.",Cloud (Azure / AWS),P3
+T100882,"Hi, antivirus flagged a potentially unwanted program on a workstation Not sure what changed.",Endpoint Security Alert,P4
+T100883,"Quick one: suspicious email with attachment from unknown sender, did not open it Started today.",Phishing / Email Security,P3
+T100884,hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T100885,Please help - ransomware behaviour detected on multiple endpoints at Gateshead depot Happening for a while now.,Endpoint Security Alert,P1
+T100886,"Quick one: storage account nearing quota, alert triggered Can someone look asap?",Cloud (Azure / AWS),P3
+T100887,multiple staff at Leeds site received same fake invoice email with link Happening for a while now.,Phishing / Email Security,P2
+T100888,password expired and self service reset is failing for Sam,Account Access,P3
+T100889,"Account locked out after several attempts, user at warehouse Happening for a while now.",Account Access,P3
+T100890,Quick one: Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100891,"firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100892,"Quick one: cannot reach the cloud database from the app, timeouts started this morning Not sure what changed.",Cloud (Azure / AWS),P2
+T100893,Teams meetings audio keeps cutting out for all staff at warehouse Happening for a while now.,Microsoft 365 / Software,P2
+T100894,SharePoint site access denied for Tom Happening for a while now.,Microsoft 365 / Software,P2
+T100895,"Hi, slow network for users at London branch, pages take ages to load Not sure what changed.",Network / Firewall,P3
+T100896,"URGENT: EDR alert: malware detected on Priya's laptop, quarantined automatically Happening for a while now.",Endpoint Security Alert,P3
+T100897,Quick one: the CRM keeps crashing when opening attachments Happening for a while now.,Microsoft 365 / Software,P3
+T100898,"new starter Mark joining Monday, needs laptop, email and CRM access Started today.",Access / Change Request,P4
+T100899,CEO locked out of account before board meeting in 30 minutes Not sure what changed.,Account Access,P2
+T100900,need licence for Visio for Priya Happening for a while now.,Data & BI (Qlik / Alteryx),P4
+T100901,"need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T100902,month-end Qlik reload failed and finance needs numbers today Happening for a while now.,Data & BI (Qlik / Alteryx),P2
+T100903,AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T100904,"Azure VM not responding, production web app is down Happening for a while now.",Cloud (Azure / AWS),P1
+T100905,"Please help - cannot reach the cloud database from the app, timeouts started this morning",Cloud (Azure / AWS),P2
+T100906,"Hi, urgent: terminated employee still has access to systems, disable now Not sure what changed.",Access / Change Request,P2
+T100907,"Please help - I clicked a link in an email and entered my password, now worried Can someone look asap?",Phishing / Email Security,P2
+T100908,URGENT: wifi not working in meeting room two only Happening for a while now.,Network / Firewall,P3
+T100909,antivirus flagged a potentially unwanted program on a workstation Started today.,Endpoint Security Alert,P4
+T100910,"Hi, cannot reach the cloud database from the app, timeouts started this morning",Cloud (Azure / AWS),P2
+T100911,monitor flickering on Emma's desk Started today.,Hardware / Device,P4
+T100912,URGENT: leaver today: please disable account and forward mailbox to manager,Access / Change Request,P3
+T100913,URGENT: firewall rule request: allow supplier IP to access web server Started today.,Network / Firewall,P4
+T100914,Please help - request to resize a test VM in Azure Started today.,Cloud (Azure / AWS),P4
+T100915,the CRM keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T100916,Quick one: AWS S3 bucket permissions error for the reporting service Can someone look asap?,Cloud (Azure / AWS),P3
+T100917,"Quick one: suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T100918,Quick one: files renamed with .locked extension and ransom note on file server Happening for a while now.,Endpoint Security Alert,P1
+T100919,the finance system keeps crashing when opening attachments Can someone look asap?,Microsoft 365 / Software,P3
+T100920,"Hello team, month-end Qlik reload failed and finance needs numbers today Happening for a while now.",Data & BI (Qlik / Alteryx),P2
+T100921,"cannot send emails from Outlook, stuck in outbox Started today.",Microsoft 365 / Software,P3
+T100922,files renamed with .locked extension and ransom note on file server Happening for a while now.,Endpoint Security Alert,P1
+T100923,"URGENT: suspicious email with attachment from unknown sender, did not open it Not sure what changed.",Phishing / Email Security,P3
+T100924,"laptop screen cracked, user is travelling and needs it for client demo Started today.",Hardware / Device,P2
+T100925,"backup agent offline on file server, last success 3 days ago Can someone look asap?",Backup & Recovery,P2
+T100926,Please help - nightly backup failed again with error repository full Happening for a while now.,Backup & Recovery,P2
+T100927,"Hello team, storage account nearing quota, alert triggered Happening for a while now.",Cloud (Azure / AWS),P3
+T100928,"Emma cannot log in, says password is incorrect Can someone look asap?",Account Access,P3
+T100929,"Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100930,month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T100931,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100932,"laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T100933,"Quick one: EDR alert: malware detected on Emma's laptop, quarantined automatically",Phishing / Email Security,P3
+T100934,"new starter Aisha joining Monday, needs laptop, email and CRM access Happening for a while now.",Access / Change Request,P4
+T100935,URGENT: SharePoint site access denied for Lena Started today.,Microsoft 365 / Software,P3
+T100936,Azure app service is very slow since last deployment Started today.,Hardware / Device,P2
+T100937,FYI nightly backup failed again with error repository full Can someone look asap?,Backup & Recovery,P2
+T100938,"Hi, mailbox full, need quota increase",Microsoft 365 / Software,P4
+T100939,Quick one: add Sam to the finance shared folder group Thanks.,Access / Change Request,P4
+T100940,"MFA prompt not arriving on new phone, locked out of everything Happening for a while now.",Account Access,P3
+T100941,Quick one: wifi not working in meeting room two only,Network / Firewall,P3
+T100942,"FYI cannot send emails from Outlook, stuck in outbox Thanks.",Microsoft 365 / Software,P3
+T100943,"Dave cannot log in, says password is incorrect Started today.",Account Access,P3
+T100944,FYI month-end Qlik reload failed and finance needs numbers today Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T100945,"Please help - phishing campaign: users reporting emails impersonating our MD, several clicked Happening for a while now.",Phishing / Email Security,P1
+T100946,"Hello team, monitor flickering on Aisha's desk",Hardware / Device,P4
+T100947,URGENT: CEO locked out of account before board meeting in 30 minutes Happening for a while now.,Account Access,P1
+T100948,"URGENT: storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T100949,"laptop will not turn on, battery light flashing Can someone look asap?",Hardware / Device,P3
+T100950,"I clicked a link in an email and entered my password, now worried Started today.",Phishing / Email Security,P2
+T100951,Please help - multiple staff at warehouse received same fake invoice email with link,Phishing / Email Security,P2
+T100952,request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100953,Please help - nightly backup failed again with error repository full Not sure what changed.,Backup & Recovery,P2
+T100954,"Hi, firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T100955,add Chloe to the finance shared folder group Not sure what changed.,Access / Change Request,P4
+T100956,request to resize a test VM in Azure Started today.,Cloud (Azure / AWS),P4
+T100957,"need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100958,"firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T100959,Please help - request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T100960,month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T100961,"Hello team, need licence for Visio for Emma",Access / Change Request,P4
+T100962,URGENT: printer at Leeds site jammed and showing error code,Hardware / Device,P4
+T100963,"FYI laptop will not turn on, battery light flashing Not sure what changed.",Hardware / Device,P3
+T100964,how do I change my password?,Account Access,P4
+T100965,backup report shows a warning on one job but completed Can someone look asap?,Backup & Recovery,P3
+T100966,ransomware behaviour detected on multiple endpoints at warehouse Thanks.,Endpoint Security Alert,P1
+T100967,Quick one: request for a new column in the stock dashboard Started today.,Data & BI (Qlik / Alteryx),P4
+T100968,wifi not working in meeting room two only Thanks.,Network / Firewall,P3
+T100969,URGENT: backup report shows a warning on one job but completed Can someone look asap?,Backup & Recovery,P4
+T100970,month-end Qlik reload failed and finance needs numbers today Can someone look asap?,Data & BI (Qlik / Alteryx),P2
+T100971,"Hi, Azure VM not responding, production web app is down Started today.",Cloud (Azure / AWS),P1
+T100972,"Please help - need to restore whole VM from yesterday's snapshot, server corrupted Happening for a while now.",Backup & Recovery,P1
+T100973,"URGENT: internet down at warehouse, nobody can get online",Network / Firewall,P1
+T100974,"Hi, Azure app service is very slow since last deployment Happening for a while now.",Cloud (Azure / AWS),P2
+T100975,"Quick one: firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100976,"slow network for users at Newcastle office, pages take ages to load Started today.",Network / Firewall,P3
+T100977,wifi not working in meeting room two only Can someone look asap?,Network / Firewall,P3
+T100978,"need to restore whole VM from yesterday's snapshot, server corrupted Started today.",Backup & Recovery,P1
+T100979,"Quick one: cannot send emails from Outlook, stuck in outbox Can someone look asap?",Microsoft 365 / Software,P3
+T100980,URGENT: Azure app service is very slow since last deployment,Cloud (Azure / AWS),P2
+T100981,"Hello team, Account locked out after several attempts, user at Newcastle office Not sure what changed.",Account Access,P4
+T100982,"FYI need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T100983,"Hi, urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T100984,VPN tunnel to Newcastle office keeps dropping every few minutes Started today.,Network / Firewall,P2
+T100985,"FYI EDR alert: malware detected on Lena's laptop, quarantined automatically",Endpoint Security Alert,P3
+T100986,FYI need licence for Visio for Dave,Access / Change Request,P4
+T100987,URGENT: add Sam to the finance shared folder group Can someone look asap?,Access / Change Request,P3
+T100988,"new starter Dave joining Monday, needs laptop, email and CRM access",Data & BI (Qlik / Alteryx),P4
+T100989,"URGENT: storage account nearing quota, alert triggered Happening for a while now.",Cloud (Azure / AWS),P3
+T100990,"URGENT: email not working for entire company, no one can send or receive Happening for a while now.",Microsoft 365 / Software,P1
+T100991,URGENT: leaver today: please disable account and forward mailbox to manager,Access / Change Request,P3
+T100992,"Quick one: Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T100993,"firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T100994,"Azure VM not responding, production web app is down Happening for a while now.",Cloud (Azure / AWS),P1
+T100995,FYI monitor flickering on Emma's desk,Hardware / Device,P4
+T100996,request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T100997,please restore a deleted folder from last Tuesday for Priya Can someone look asap?,Backup & Recovery,P3
+T100998,"Please help - suspicious email with attachment from unknown sender, did not open it Can someone look asap?",Phishing / Email Security,P3
+T100999,"laptop screen cracked, user is travelling and needs it for client demo Can someone look asap?",Hardware / Device,P2
+T101000,monitor flickering on Lena's desk,Hardware / Device,P4
+T101001,"Hello team, request for a new column in the stock dashboard Not sure what changed.",Data & BI (Qlik / Alteryx),P4
+T101002,URGENT: need licence for Visio for Tom Started today.,Access / Change Request,P4
+T101003,"Tom cannot log in, says password is incorrect",Account Access,P3
+T101004,FYI AWS S3 bucket permissions error for the reporting service Started today.,Cloud (Azure / AWS),P3
+T101005,"Hi, firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T101006,"slow network for users at warehouse, pages take ages to load Happening for a while now.",Network / Firewall,P3
+T101007,leaver today: please disable account and forward mailbox to manager Can someone look asap?,Access / Change Request,P2
+T101008,"laptop screen cracked, user is travelling and needs it for client demo Not sure what changed.",Hardware / Device,P2
+T101009,hard drive making clicking noise on a director's desktop,Network / Firewall,P3
+T101010,"Hi, mailbox full, need quota increase Can someone look asap?",Microsoft 365 / Software,P4
+T101011,need licence for Visio for Aisha Can someone look asap?,Access / Change Request,P4
+T101012,URGENT: AWS S3 bucket permissions error for the reporting service Started today.,Cloud (Azure / AWS),P3
+T101013,URGENT: Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P4
+T101014,Alteryx workflow failed overnight with a connection error Happening for a while now.,Data & BI (Qlik / Alteryx),P3
+T101015,"URGENT: phishing campaign: users reporting emails impersonating our MD, several clicked Can someone look asap?",Phishing / Email Security,P1
+T101016,Please help - monitor flickering on Chloe's desk Started today.,Hardware / Device,P4
+T101017,please restore a deleted folder from last Tuesday for Aisha Can someone look asap?,Backup & Recovery,P3
+T101018,"Please help - suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T101019,Please help - VPN tunnel to Gateshead depot keeps dropping every few minutes Happening for a while now.,Network / Firewall,P2
+T101020,leaver today: please disable account and forward mailbox to manager,Access / Change Request,P2
+T101021,Quick one: endpoint agent shows as out of date on Priya's device Not sure what changed.,Endpoint Security Alert,P4
+T101022,"FYI Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T101023,firewall rule request: allow supplier IP to access web server Thanks.,Network / Firewall,P4
+T101024,request to resize a test VM in Azure Not sure what changed.,Cloud (Azure / AWS),P4
+T101025,sales report shows wrong totals after the latest data load Started today.,Data & BI (Qlik / Alteryx),P2
+T101026,"URGENT: suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P3
+T101027,"Hello team, request for a new column in the stock dashboard Not sure what changed.",Data & BI (Qlik / Alteryx),P4
+T101028,how do I change my password? Started today.,Account Access,P4
+T101029,"Hello team, OneDrive keeps crashing when opening attachments",Microsoft 365 / Software,P3
+T101030,Please help - files renamed with .locked extension and ransom note on file server Started today.,Endpoint Security Alert,P1
+T101031,FYI firewall rule request: allow supplier IP to access web server Thanks.,Network / Firewall,P4
+T101032,"Hi, is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T101033,nightly backup failed again with error repository full Can someone look asap?,Backup & Recovery,P2
+T101034,monitor flickering on Aisha's desk,Hardware / Device,P4
+T101035,"urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T101036,"backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T101037,"Hello team, need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T101038,add Priya to the finance shared folder group,Access / Change Request,P4
+T101039,"Hello team, mailbox full, need quota increase Thanks.",Microsoft 365 / Software,P4
+T101040,Please help - firewall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T101041,Quick one: wifi not working in meeting room two only Started today.,Network / Firewall,P3
+T101042,add Dave to the finance shared folder group,Access / Change Request,P4
+T101043,Azure app service is very slow since last deployment Thanks.,Cloud (Azure / AWS),P2
+T101044,VPN tunnel to Leeds site keeps dropping every few minutes,Network / Firewall,P2
+T101045,"Hello team, EDR alert: malware detected on Mark's laptop, quarantined automatically Happening for a while now.",Endpoint Security Alert,P3
+T101046,FYI antivirus flagged a potentially unwanted program on a workstation,Hardware / Device,P4
+T101047,"mailbox full, need quota increase Not sure what changed.",Microsoft 365 / Software,P4
+T101048,FYI request to resize a test VM in Azure Started today.,Cloud (Azure / AWS),P4
+T101049,Please help - multiple staff at London branch received same fake invoice email with link Thanks.,Phishing / Email Security,P2
+T101050,backup report shows a warning on one job but completed,Backup & Recovery,P4
+T101051,password expired and self service reset is failing for Priya Can someone look asap?,Account Access,P3
+T101052,"Quick one: Tom cannot log in, says password is incorrect Can someone look asap?",Account Access,P3
+T101053,"Quick one: email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T101054,"FYI is this email legitimate? looks odd, question only Started today.",Phishing / Email Security,P4
+T101055,"Hi, Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T101056,Quick one: multiple staff at Leeds site received same fake invoice email with link,Phishing / Email Security,P2
+T101057,the CRM keeps crashing when opening attachments Happening for a while now.,Microsoft 365 / Software,P3
+T101058,Quick one: EDR high severity: suspicious PowerShell executing encoded commands on server,Endpoint Security Alert,P1
+T101059,Please help - please restore a deleted folder from last Tuesday for Lena,Backup & Recovery,P3
+T101060,"cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P3
+T101061,"Quick one: MFA prompt not arriving on new phone, locked out of everything Happening for a while now.",Account Access,P3
+T101062,"Hello team, new starter Dave joining Monday, needs laptop, email and CRM access",Access / Change Request,P4
+T101063,"URGENT: firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T101064,"URGENT: Azure VM not responding, production web app is down Started today.",Cloud (Azure / AWS),P1
+T101065,"EDR alert: malware detected on Dave's laptop, quarantined automatically Not sure what changed.",Endpoint Security Alert,P3
+T101066,"Hi, received a strange email asking me to verify my bank details Happening for a while now.",Phishing / Email Security,P3
+T101067,Azure app service is very slow since last deployment Started today.,Cloud (Azure / AWS),P3
+T101068,Please help - whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.,Account Access,P1
+T101069,"URGENT: EDR alert: malware detected on Tom's laptop, quarantined automatically",Endpoint Security Alert,P3
+T101070,month-end Qlik reload failed and finance needs numbers today,Data & BI (Qlik / Alteryx),P2
+T101071,FYI multiple staff at warehouse received same fake invoice email with link,Phishing / Email Security,P2
+T101072,Quick one: month-end Qlik reload failed and finance needs numbers today Happening for a while now.,Data & BI (Qlik / Alteryx),P2
+T101073,"Hi, SharePoint site access denied for Dave Can someone look asap?",Microsoft 365 / Software,P3
+T101074,monitor flickering on Sam's desk,Hardware / Device,P4
+T101075,"Please help - I clicked a link in an email and entered my password, now worried Thanks.",Phishing / Email Security,P2
+T101076,"Please help - laptop will not turn on, battery light flashing",Hardware / Device,P3
+T101077,"Please help - Azure VM not responding, production web app is down Can someone look asap?",Cloud (Azure / AWS),P1
+T101078,"Sam cannot log in, says password is incorrect",Account Access,P3
+T101079,multiple staff at London branch received same fake invoice email with link Not sure what changed.,Phishing / Email Security,P2
+T101080,"Hi, Azure app service is very slow since last deployment Happening for a while now.",Cloud (Azure / AWS),P2
+T101081,Quick one: nightly backup failed again with error repository full,Backup & Recovery,P2
+T101082,password expired and self service reset is failing for Lena Not sure what changed.,Account Access,P3
+T101083,"Quick one: Account locked out after several attempts, user at warehouse",Account Access,P2
+T101084,Quick one: received a strange email asking me to verify my bank details,Phishing / Email Security,P3
+T101085,"FYI cannot reach the cloud database from the app, timeouts started this morning",Cloud (Azure / AWS),P2
+T101086,add Tom to the finance shared folder group Can someone look asap?,Access / Change Request,P4
+T101087,"Quick one: firewall cluster failed over, primary unresponsive, site traffic unstable Happening for a while now.",Network / Firewall,P2
+T101088,"Hello team, please restore a deleted folder from last Tuesday for Mark",Backup & Recovery,P3
+T101089,URGENT: SharePoint site access denied for Emma,Microsoft 365 / Software,P3
+T101090,endpoint agent shows as out of date on Priya's device Can someone look asap?,Endpoint Security Alert,P4
+T101091,"slow network for users at Newcastle office, pages take ages to load Started today.",Network / Firewall,P3
+T101092,URGENT: request to resize a test VM in Azure,Cloud (Azure / AWS),P4
+T101093,"Please help - I clicked a link in an email and entered my password, now worried Can someone look asap?",Phishing / Email Security,P2
+T101094,Please help - request for a new column in the stock dashboard Happening for a while now.,Data & BI (Qlik / Alteryx),P4
+T101095,SharePoint site access denied for Sam,Microsoft 365 / Software,P3
+T101096,"cannot reach the cloud database from the app, timeouts started this morning Not sure what changed.",Cloud (Azure / AWS),P2
+T101097,wifi not working in meeting room two only,Network / Firewall,P3
+T101098,sales report shows wrong totals after the latest data load Started today.,Data & BI (Qlik / Alteryx),P3
+T101099,SharePoint site access denied for Priya,Microsoft 365 / Software,P3
+T101100,endpoint agent shows as out of date on Dave's device Thanks.,Endpoint Security Alert,P4
+T101101,"internet down at head office, nobody can get online",Network / Firewall,P1
+T101102,multiple staff at London branch received same fake invoice email with link Not sure what changed.,Phishing / Email Security,P2
+T101103,"Hi, laptop screen cracked, user is travelling and needs it for client demo Not sure what changed.",Hardware / Device,P2
+T101104,"Hello team, cannot send emails from Outlook, stuck in outbox",Microsoft 365 / Software,P3
+T101105,request to resize a test VM in Azure Thanks.,Cloud (Azure / AWS),P4
+T101106,FYI the finance system keeps crashing when opening attachments Started today.,Microsoft 365 / Software,P3
+T101107,URGENT: backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T101108,monitor flickering on Priya's desk Can someone look asap?,Hardware / Device,P4
+T101109,Quick one: Outlook keeps crashing when opening attachments,Microsoft 365 / Software,P3
+T101110,URGENT: EDR high severity: suspicious PowerShell executing encoded commands on server Happening for a while now.,Endpoint Security Alert,P2
+T101111,"EDR alert: malware detected on Chloe's laptop, quarantined automatically",Endpoint Security Alert,P3
+T101112,"Hello team, Alteryx workflow failed overnight with a connection error Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T101113,"Azure VM not responding, production web app is down Can someone look asap?",Cloud (Azure / AWS),P1
+T101114,"is this email legitimate? looks odd, question only Thanks.",Phishing / Email Security,P4
+T101115,"Hello team, AWS S3 bucket permissions error for the reporting service Can someone look asap?",Cloud (Azure / AWS),P3
+T101116,multiple staff at London branch received same fake invoice email with link Started today.,Phishing / Email Security,P2
+T101117,"Please help - cant send emails from Outlook, stuck in outbox Started today.",Microsoft 365 / Software,P3
+T101118,need licence for Visio for Lena Not sure what changed.,Access / Change Request,P4
+T101119,FYI need licence for Visio for Mark,Access / Change Request,P4
+T101120,FYI files renamed with .locked extension and ransom note on file server Can someone look asap?,Endpoint Security Alert,P1
+T101121,Quick one: EDR high severity: suspicious PowerShell executing encoded commands on server,Endpoint Security Alert,P2
+T101122,"URGENT: need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T101123,antivirus flagged a potentially unwanted program on a workstation Can someone look asap?,Endpoint Security Alert,P4
+T101124,"URGENT: mailbox full, need quota increase Started today.",Microsoft 365 / Software,P4
+T101125,URGENT: Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T101126,EDR high severity: suspicious PowerShell executing encoded commands on server Not sure what changed.,Endpoint Security Alert,P2
+T101127,"Hello team, firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P1
+T101128,received a strange email asking me to verify my bank details Happening for a while now.,Phishing / Email Security,P3
+T101129,"FYI backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T101130,"Hi, storage account nearing quota, alert triggered",Cloud (Azure / AWS),P3
+T101131,"Hello team, laptop screen cracked, user is travelling and needs it for client demo Can someone look asap?",Hardware / Device,P2
+T101132,"Please help - suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T101133,"Please help - mailbox full, need quota increase",Microsoft 365 / Software,P4
+T101134,Please help - files renamed with .locked extension and ransom note on file server Happening for a while now.,Hardware / Device,P1
+T101135,"Hi, how do I change my password? Started today.",Account Access,P4
+T101136,"urgent: terminated employee still has access to systems, disable now Not sure what changed.",Access / Change Request,P2
+T101137,"new starter Sam joining Monday, needs laptop, email and CRM access Started today.",Access / Change Request,P4
+T101138,"FYI EDR alert: malware detected on Priya's laptop, quarantined automatically",Endpoint Security Alert,P3
+T101139,"cannot send emails from Outlook, stuck in outbox Can someone look asap?",Microsoft 365 / Software,P3
+T101140,"mailbox full, need quota increase",Microsoft 365 / Software,P4
+T101141,"FYI Azure VM not responding, production web app is down Not sure what changed.",Cloud (Azure / AWS),P1
+T101142,"Quick one: cannot send emails from Outlook, stuck in outbox",Microsoft 365 / Software,P3
+T101143,FYI AWS S3 bucket permissions error for the reporting service Thanks.,Cloud (Azure / AWS),P3
+T101144,Please help - multiple staff at London branch received same fake invoice email with link Happening for a while now.,Phishing / Email Security,P2
+T101145,monitor flickering on Sam's desk Happening for a while now.,Hardware / Device,P4
+T101146,"Hello team, antivirus flagged a potentially unwanted program on a workstation",Endpoint Security Alert,P4
+T101147,Please help - VPN tunnel to London branch keeps dropping every few minutes,Network / Firewall,P2
+T101148,"I clicked a link in an email and entered my password, now worried Can someone look asap?",Phishing / Email Security,P2
+T101149,how do I change my password? Can someone look asap?,Account Access,P4
+T101150,"phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T101151,"Hi, Teams meetings audio keeps cutting out for all staff at London branch",Microsoft 365 / Software,P2
+T101152,"laptop will not turn on, battery light flashing",Hardware / Device,P3
+T101153,"is this email legitimate? looks odd, question only Not sure what changed.",Phishing / Email Security,P4
+T101154,"Hello team, AWS S3 bucket permissions error for the reporting service Thanks.",Cloud (Azure / AWS),P3
+T101155,"Azure VM not responding, production web app is down Thanks.",Cloud (Azure / AWS),P1
+T101156,hard drive making clicking noise on a director's desktop Not sure what changed.,Hardware / Device,P3
+T101157,"slow network for users at Gateshead depot, pages take ages to load",Network / Firewall,P3
+T101158,received a strange email asking me to verify my bank details,Data & BI (Qlik / Alteryx),P4
+T101159,month-end Qlik reload failed and finance needs numbers today Can someone look asap?,Data & BI (Qlik / Alteryx),P2
+T101160,"phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T101161,"Hi, new starter Lena joining Monday, needs laptop, email and CRM access Started today.",Access / Change Request,P3
+T101162,endpoint agent shows as out of date on Sam's device,Endpoint Security Alert,P4
+T101163,"Hello team, received a strange email asking me to verify my bank details",Phishing / Email Security,P3
+T101164,"laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T101165,"Please help - laptop will not turn on, battery light flashing Happening for a while now.",Hardware / Device,P3
+T101166,URGENT: nightly backup failed again with error repository full Started today.,Backup & Recovery,P2
+T101167,"Please help - Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T101168,"Hello team, Tom cannot log in, says password is incorrect",Account Access,P3
+T101169,Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T101170,URGENT: antivirus flagged a potentially unwanted program on a workstation Can someone look asap?,Endpoint Security Alert,P4
+T101171,endpoint agent shows as out of date on Ravi's device Started today.,Endpoint Security Alert,P4
+T101172,"FYI Qlik dashboard not refreshing, data is from last week Thanks.",Data & BI (Qlik / Alteryx),P3
+T101173,Quick one: nightly backup failed again with error repository full,Backup & Recovery,P2
+T101174,"Please help - Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T101175,"FYI storage account nearing quota, alert triggered",Cloud (Azure / AWS),P4
+T101176,"I clicked a link in an email and entered my password, now worried Started today.",Phishing / Email Security,P2
+T101177,"Hello team, new starter Ravi joining Monday, needs laptop, email and CRM access Not sure what changed.",Access / Change Request,P4
+T101178,"Hi, Alteryx workflow failed overnight with a connection error",Data & BI (Qlik / Alteryx),P3
+T101179,"URGENT: Qlik dashboard not refreshing, data is from last week Happening for a while now.",Data & BI (Qlik / Alteryx),P3
+T101180,URGENT: received a strange email asking me to verify my bank details Can someone look asap?,Access / Change Request,P3
+T101181,FYI the CRM keeps crashing when opening attachments Thanks.,Microsoft 365 / Software,P3
+T101182,"phishing campaign: users reporting emails impersonating our MD, several clicked Can someone look asap?",Phishing / Email Security,P1
+T101183,please restore a deleted folder from last Tuesday for Tom Thanks.,Backup & Recovery,P3
+T101184,"Hi, mailbox full, need quota increase",Microsoft 365 / Software,P4
+T101185,"Hi, add Ravi to the finance shared folder group Started today.",Access / Change Request,P4
+T101186,Please help - AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T101187,URGENT: ransomware behaviour detected on multiple endpoints at head office Not sure what changed.,Endpoint Security Alert,P1
+T101188,add Tom to the finance shared folder group Thanks.,Access / Change Request,P4
+T101189,wifi not working in meeting room two only,Network / Firewall,P3
+T101190,"FYI Account locked out after several attempts, user at Gateshead depot Happening for a while now.",Account Access,P3
+T101191,FYI need licence for Visio for Chloe Not sure what changed.,Access / Change Request,P4
+T101192,Quick one: Azure app service is very slow since last deployment Started today.,Cloud (Azure / AWS),P2
+T101193,FYI printer at head office jammed and showing error code,Hardware / Device,P4
+T101194,SharePoint site access denied for Aisha Thanks.,Microsoft 365 / Software,P3
+T101195,URGENT: backup report shows a warning on one job but completed,Backup & Recovery,P4
+T101196,"email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T101197,"emial not working for entire company, no one can send or receive Happening for a while now.",Microsoft 365 / Software,P1
+T101198,Please help - firewall rule request: allow supplier IP to access web server Thanks.,Network / Firewall,P4
+T101199,ransomware behaviour detected on multiple endpoints at Gateshead depot,Endpoint Security Alert,P1
+T101200,"Quick one: laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T101201,"URGENT: internet down at Newcastle office, nobody can get online Not sure what changed.",Network / Firewall,P1
+T101202,"Quick one: I clicked a link in an email and entered my password, now worried Started today.",Phishing / Email Security,P2
+T101203,printer at warehouse jammed and showing error code,Hardware / Device,P4
+T101204,URGENT: hard drive making clicking noise on a director's desktop,Hardware / Device,P3
+T101205,"Hello team, SharePoint site access denied for Aisha",Microsoft 365 / Software,P3
+T101206,"cannot reach the cloud database from the app, timeouts started this morning Thanks.",Cloud (Azure / AWS),P2
+T101207,Quick one: multiple staff at Gateshead depot received same fake invoice email with link Can someone look asap?,Phishing / Email Security,P2
+T101208,password expired and self service reset is failing for Dave,Account Access,P3
+T101209,"URGENT: EDR alert: malware detected on Aisha's laptop, quarantined automatically",Endpoint Security Alert,P3
+T101210,"URGENT: firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T101211,antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T101212,request to resize a test VM in Azure Not sure what changed.,Cloud (Azure / AWS),P4
+T101213,"Hi, request to resize a test VM in Azure",Cloud (Azure / AWS),P4
+T101214,Please help - nightly backup failed again with error repository full Thanks.,Backup & Recovery,P2
+T101215,"Quick one: backup agent offline on file server, last success 3 days ago Not sure what changed.",Backup & Recovery,P2
+T101216,"Hello team, Teams meetings audio keeps cutting out for all staff at Leeds site Happening for a while now.",Microsoft 365 / Software,P2
+T101217,"Account locked out after several attempts, user at head office Started today.",Account Access,P3
+T101218,"Hi, SharePoint site access denied for Emma",Microsoft 365 / Software,P3
+T101219,"URGENT: laptop will not turn on, battery light flashing Happening for a while now.",Hardware / Device,P3
+T101220,URGENT: add Chloe to the finance shared folder group,Access / Change Request,P4
+T101221,URGENT: backup report shows a warning on one job but completed,Backup & Recovery,P3
+T101222,FYI how do I change my password?,Account Access,P4
+T101223,"Hi, AWS S3 bucket permissions error for the reporting service Can someone look asap?",Cloud (Azure / AWS),P3
+T101224,"cannot reach the cloud database from the app, timeouts started this morning",Cloud (Azure / AWS),P2
+T101225,"Hi, sales report shows wrong totals after the latest data load",Data & BI (Qlik / Alteryx),P2
+T101226,monitor flickering on Mark's desk Happening for a while now.,Hardware / Device,P4
+T101227,"Hello team, nightly backup failed again with error repository full Started today.",Backup & Recovery,P2
+T101228,"Quick one: cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P3
+T101229,"FYI slow network for users at head office, pages take ages to load Thanks.",Network / Firewall,P3
+T101230,ransomware behaviour detected on multiple endpoints at warehouse Happening for a while now.,Endpoint Security Alert,P1
+T101231,whole finance team getting 'account disabled' sign-in errors since 9am,Account Access,P1
+T101232,"Quick one: suspicious email with attachment from unknown sender, did not open it Thanks.",Phishing / Email Security,P3
+T101233,Please help - antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T101234,"Hi, mailbox full, need quota increase Started today.",Microsoft 365 / Software,P4
+T101235,"Please help - Dave cannot log in, says password is incorrect",Account Access,P3
+T101236,Please help - please restore a deleted folder from last Tuesday for Chloe Not sure what changed.,Backup & Recovery,P3
+T101237,firewall rule request: allow supplier IP to access web server Happening for a while now.,Network / Firewall,P4
+T101238,request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T101239,Quick one: ransomware behaviour detected on multiple endpoints at head office Thanks.,Endpoint Security Alert,P1
+T101240,Quick one: please restore a deleted folder from last Tuesday for Ravi,Backup & Recovery,P3
+T101241,add Aisha to the finance shared folder group Not sure what changed.,Access / Change Request,P4
+T101242,"MFA prompt not arriving on new phone, locked out of everything Thanks.",Account Access,P3
+T101243,"Please help - is this email legitimate? looks odd, question only Can someone look asap?",Phishing / Email Security,P4
+T101244,"Hello team, suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P3
+T101245,"Hello team, is this email legitimate? looks odd, question only Not sure what changed.",Phishing / Email Security,P3
+T101246,how do I change my password? Not sure what changed.,Account Access,P4
+T101247,Quick one: leaver today: please disable account and forward mailbox to manager Started today.,Access / Change Request,P3
+T101248,"URGENT: laptop screen cracked, user is travelling and needs it for client demo Can someone look asap?",Hardware / Device,P2
+T101249,"Hello team, suspicious email with attachment from unknown sender, did not open it",Phishing / Email Security,P3
+T101250,"URGENT: Qlik dashboard not refreshing, data is from last week",Data & BI (Qlik / Alteryx),P3
+T101251,FYI endpoint agent shows as out of date on Dave's device Thanks.,Endpoint Security Alert,P4
+T101252,"Hi, leaver today: please disable account and forward mailbox to manager",Access / Change Request,P3
+T101253,request for a new column in the stock dashboard Can someone look asap?,Data & BI (Qlik / Alteryx),P4
+T101254,sales report shows wrong totals after the latest data load Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T101255,"URGENT: email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T101256,please restore a deleted folder from last Tuesday for Priya,Backup & Recovery,P3
+T101257,"slow network for users at London branch, pages take ages to load Started today.",Network / Firewall,P3
+T101258,Please help - backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T101259,Quick one: VPN tunnel to Newcastle office keeps dropping every few minutes,Network / Firewall,P2
+T101260,URGENT: nightly backup failed again with error repository full,Backup & Recovery,P2
+T101261,multiple staff at Newcastle office received same fake invoice email with link,Phishing / Email Security,P2
+T101262,Quick one: nightly backup failed again with error repository full,Backup & Recovery,P2
+T101263,Please help - request to resize a test VM in Azure Can someone look asap?,Cloud (Azure / AWS),P4
+T101264,"Hello team, AWS S3 bucket permissions error for the reporting service Can someone look asap?",Cloud (Azure / AWS),P3
+T101265,"Quick one: I clicked a link in an email and entered my password, now worried",Phishing / Email Security,P2
+T101266,"Hello team, request to resize a test VM in Azure Thanks.",Cloud (Azure / AWS),P4
+T101267,"Hi, Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T101268,"URGENT: need to restore whole VM from yesterday's snapshot, server corrupted Started today.",Backup & Recovery,P1
+T101269,endpoint agent shows as out of date on Priya's device,Endpoint Security Alert,P4
+T101270,"Quick one: Account locked out after several attempts, user at head office",Account Access,P3
+T101271,"Quick one: phishing campaign: users reporting emails impersonating our MD, several clicked Thanks.",Phishing / Email Security,P1
+T101272,FYI printer at Leeds site jammed and showing error code,Hardware / Device,P4
+T101273,hard drive making clicking noise on a director's desktop Can someone look asap?,Hardware / Device,P3
+T101274,"URGENT: cannot reach the cloud database from the app, timeouts started this morning",Cloud (Azure / AWS),P2
+T101275,files renamed with .locked extension and ransom note on file server,Endpoint Security Alert,P1
+T101276,"Hi, please restore a deleted folder from last Tuesday for Aisha",Backup & Recovery,P3
+T101277,"FYI cannot send emails from Outlook, stuck in outbox Happening for a while now.",Microsoft 365 / Software,P3
+T101278,"email not working for entire company, no one can send or receive Started today.",Microsoft 365 / Software,P1
+T101279,month-end Qlik reload failed and finance needs numbers today Started today.,Data & BI (Qlik / Alteryx),P2
+T101280,"URGENT: cannot reach the cloud database from the app, timeouts started this morning Started today.",Cloud (Azure / AWS),P3
+T101281,"Hi, AWS S3 bucket permissions error for the reporting service Can someone look asap?",Cloud (Azure / AWS),P3
+T101282,Quick one: monitor flickering on Mark's desk,Hardware / Device,P4
+T101283,hard drive making clicking noise on a director's desktop Started today.,Hardware / Device,P3
+T101284,FYI leaver today: please disable account and forward mailbox to manager Happening for a while now.,Access / Change Request,P4
+T101285,add Dave to the finance shared folder group Not sure what changed.,Access / Change Request,P4
+T101286,"FYI slow network for users at Leeds site, pages take ages to load Happening for a while now.",Phishing / Email Security,P3
+T101287,Quick one: Alteryx workflow failed overnight with a connection error Happening for a while now.,Data & BI (Qlik / Alteryx),P4
+T101288,URGENT: need licence for Visio for Lena Can someone look asap?,Access / Change Request,P4
+T101289,"Hello team, files renamed with .locked extension and ransom note on file server",Hardware / Device,P1
+T101290,AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T101291,"FYI email not working for entire company, no one can send or receive Not sure what changed.",Microsoft 365 / Software,P1
+T101292,URGENT: password expired and self service reset is failing for Ravi Can someone look asap?,Account Access,P4
+T101293,"Hi, how do I change my password? Can someone look asap?",Account Access,P4
+T101294,Quick one: request to resize a test VM in Azure Thanks.,Cloud (Azure / AWS),P4
+T101295,"Please help - backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T101296,"Quick one: urgent: terminated employee still has access to systems, disable now Started today.",Access / Change Request,P3
+T101297,"Please help - I clicked a link in an email and entered my password, now worried Started today.",Phishing / Email Security,P2
+T101298,Quick one: EDR high severity: suspicious PowerShell executing encoded commands on server,Endpoint Security Alert,P2
+T101299,"need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T101300,"URGENT: slow network for users at head office, pages take ages to load Not sure what changed.",Network / Firewall,P2
+T101301,"Hello team, multiple staff at Newcastle office received same fake invoice email with link Not sure what changed.",Phishing / Email Security,P2
+T101302,"Hi, hard drive making clicking noise on a director's desktop Thanks.",Hardware / Device,P3
+T101303,"Hi, need to restore whole VM from yesterday's snapshot, server corrupted Happening for a while now.",Backup & Recovery,P1
+T101304,FYI whole finance team getting 'account disabled' sign-in errors since 9am Happening for a while now.,Account Access,P1
+T101305,"Hello team, month-end Qlik reload failed and finance needs numbers today",Data & BI (Qlik / Alteryx),P2
+T101306,Please help - nightly backup failed again with error repository full Happening for a while now.,Backup & Recovery,P2
+T101307,Please help - backup report shows a warning on one job but completed,Backup & Recovery,P4
+T101308,"Please help - email not working for entire company, no one can send or receive Thanks.",Microsoft 365 / Software,P1
+T101309,URGENT: AWS S3 bucket permissions error for the reporting service,Cloud (Azure / AWS),P3
+T101310,Quick one: SharePoint site access denied for Aisha Thanks.,Microsoft 365 / Software,P3
+T101311,how do I change my password? Thanks.,Access / Change Request,P4
+T101312,Please help - hard drive making clicking noise on a director's desktop Can someone look asap?,Hardware / Device,P3
+T101313,"Quick one: is this email legitimate? looks odd, question only Not sure what changed.",Phishing / Email Security,P4
+T101314,Quick one: add Dave to the finance shared folder group Happening for a while now.,Access / Change Request,P4
+T101315,URGENT: received a strange email asking me to verify my bank details,Phishing / Email Security,P3
+T101316,"Quick one: MFA prompt not arriving on new phone, locked out of everything Thanks.",Account Access,P3
+T101317,files renamed with .locked extension and ransom note on file server,Endpoint Security Alert,P2
+T101318,"Hello team, sales report shows wrong totals after the latest data load Not sure what changed.",Data & BI (Qlik / Alteryx),P2
+T101319,Please help - please restore a deleted folder from last Tuesday for Emma Can someone look asap?,Backup & Recovery,P2
+T101320,FYI backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T101321,URGENT: backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T101322,firewall rule request: allow supplier IP to access web server,Network / Firewall,P4
+T101323,URGENT: request for a new column in the stock dashboard Not sure what changed.,Data & BI (Qlik / Alteryx),P4
+T101324,VPN tunnel to head office keeps dropping every few minutes Happening for a while now.,Network / Firewall,P2
+T101325,request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T101326,Quick one: please restore a deleted folder from last Tuesday for Aisha,Backup & Recovery,P3
+T101327,"Hello team, request to resize a test VM in Azure",Cloud (Azure / AWS),P4
+T101328,SharePoint site access denied for Priya Started today.,Microsoft 365 / Software,P3
+T101329,FYI Outlook keeps crashing when opening attachments Thanks.,Hardware / Device,P3
+T101330,Quick one: whole finance team getting 'account disabled' sign-in errors since 9am,Account Access,P1
+T101331,"Hello team, backup agent offline on file server, last success 3 days ago Can someone look asap?",Backup & Recovery,P2
+T101332,wifi not working in meeting room two only,Network / Firewall,P3
+T101333,Please help - SharePoint site access denied for Tom Can someone look asap?,Microsoft 365 / Software,P3
+T101334,"Hello team, please restore a deleted folder from last Tuesday for Priya Can someone look asap?",Backup & Recovery,P3
+T101335,request for a new column in the stock dashboard Started today.,Data & BI (Qlik / Alteryx),P4
+T101336,Quick one: backup report shows a warning on one job but completed Happening for a while now.,Backup & Recovery,P4
+T101337,URGENT: Teams meetings audio keeps cutting out for all staff at Leeds site Started today.,Microsoft 365 / Software,P2
+T101338,Please help - multiple staff at Newcastle office received same fake invoice email with link,Phishing / Email Security,P2
+T101339,"Hi, Teams meetings audio keeps cutting out for all staff at London branch Can someone look asap?",Microsoft 365 / Software,P2
+T101340,"Hi, printer at Gateshead depot jammed and showing error code Thanks.",Hardware / Device,P4
+T101341,"Quick one: Account locked out after several attempts, user at head office Not sure what changed.",Account Access,P3
+T101342,"Please help - laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P2
+T101343,Teams meetings audio keeps cutting out for all staff at warehouse Started today.,Microsoft 365 / Software,P2
+T101344,FYI backup report shows a warning on one job but completed,Backup & Recovery,P4
+T101345,request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T101346,Quick one: files renamed with .locked extension and ransom note on file server Thanks.,Endpoint Security Alert,P1
+T101347,sales report shows wrong totals after the latest data load,Data & BI (Qlik / Alteryx),P2
+T101348,need licence for Visio for Sam Happening for a while now.,Access / Change Request,P4
+T101349,URGENT: ransomware behaviour detected on multiple endpoints at head office,Endpoint Security Alert,P1
+T101350,CEO locked out of account before board meeting in 30 minutes Not sure what changed.,Account Access,P2
+T101351,printer at warehouse jammed and showing error code Started today.,Hardware / Device,P4
+T101352,"laptop will not turn on, battery light flashing Happening for a while now.",Hardware / Device,P3
+T101353,"Hi, cannot reach the cloud database from the app, timeouts started this morning Started today.",Cloud (Azure / AWS),P2
+T101354,AWS S3 bucket permissions error for the reporting service,Backup & Recovery,P3
+T101355,"URGENT: slow network for users at head office, pages take ages to load Thanks.",Network / Firewall,P3
+T101356,Alteryx workflow failed overnight with a connection error Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T101357,Please help - SharePoint site access denied for Dave,Microsoft 365 / Software,P3
+T101358,"Quick one: internet down at Leeds site, nobody can get online Started today.",Network / Firewall,P1
+T101359,"Hello team, how do I change my password?",Account Access,P4
+T101360,"laptop will not turn on, battery light flashing Happening for a while now.",Hardware / Device,P3
+T101361,"Hello team, whole finance team getting 'account disabled' sign-in errors since 9am Started today.",Network / Firewall,P1
+T101362,"Hi, please restore a deleted folder from last Tuesday for Chloe Can someone look asap?",Backup & Recovery,P3
+T101363,please restore a deleted folder from last Tuesday for Ravi Started today.,Backup & Recovery,P3
+T101364,"URGENT: cannot send emails from Outlook, stuck in outbox Can someone look asap?",Microsoft 365 / Software,P2
+T101365,FYI Outlook keeps crashing when opening attachments Happening for a while now.,Microsoft 365 / Software,P3
+T101366,"Please help - Lena cannot log in, says password is incorrect",Account Access,P3
+T101367,firewall rule request: allow supplier IP to access web server Can someone look asap?,Network / Firewall,P4
+T101368,endpoint agent shows as out of date on Ravi's device Not sure what changed.,Endpoint Security Alert,P4
+T101369,please restore a deleted folder from last Tuesday for Ravi Thanks.,Backup & Recovery,P3
+T101370,"Hello team, request for a new column in the stock dashboard",Data & BI (Qlik / Alteryx),P4
+T101371,"Hello team, email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T101372,"urgent: terminated employee still has access to systems, disable now",Access / Change Request,P2
+T101373,Quick one: printer at Gateshead depot jammed and showing error code Started today.,Hardware / Device,P4
+T101374,"Hello team, laptop screen cracked, user is travelling and needs it for client demo Not sure what changed.",Hardware / Device,P2
+T101375,Quick one: EDR high severity: suspicious PowerShell executing encoded commands on server Not sure what changed.,Endpoint Security Alert,P2
+T101376,"slow network for users at head office, pages take ages to load",Network / Firewall,P3
+T101377,Please help - Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T101378,VPN tunnel to London branch keeps dropping every few minutes Thanks.,Network / Firewall,P2
+T101379,FYI backup report shows a warning on one job but completed Started today.,Backup & Recovery,P4
+T101380,"backup agent offline on file server, last success 3 days ago Thanks.",Backup & Recovery,P2
+T101381,Please help - multiple staff at head office received same fake invoice email with link Can someone look asap?,Phishing / Email Security,P2
+T101382,"Hello team, SharePoint site access denied for Lena",Microsoft 365 / Software,P3
+T101383,"Please help - phishing campaign: users reporting emials impersonating our MD, several clicked",Phishing / Email Security,P1
+T101384,"Please help - storage account nearing quota, alert triggered Thanks.",Cloud (Azure / AWS),P3
+T101385,Alteryx workflow failed overnight with a connection error Thanks.,Data & BI (Qlik / Alteryx),P3
+T101386,"new starter Ravi joining Monday, needs laptop, email and CRM access Not sure what changed.",Access / Change Request,P4
+T101387,"firewall cluster failed over, primary unresponsive, site traffic unstable Started today.",Network / Firewall,P2
+T101388,"Qlik dashboard not refreshing, data is from last week Not sure what changed.",Data & BI (Qlik / Alteryx),P3
+T101389,"Quick one: phishing campaign: users reporting emails impersonating our MD, several clicked Happening for a while now.",Phishing / Email Security,P1
+T101390,URGENT: sales report shows wrong totals after the latest data load Happening for a while now.,Data & BI (Qlik / Alteryx),P2
+T101391,"Quick one: new starter Chloe joining Monday, needs laptop, email and CRM access Thanks.",Access / Change Request,P4
+T101392,"FYI mailbox full, need quota increase Happening for a while now.",Microsoft 365 / Software,P4
+T101393,"Hi, CEO locked out of account before board meeting in 30 minutes Started today.",Account Access,P2
+T101394,"Quick one: laptop will not turn on, battery light flashing Not sure what changed.",Hardware / Device,P3
+T101395,"lap top will not turn on, battery light flashing Started today.",Hardware / Device,P3
+T101396,"Hello team, sales report shows wrong totals after the latest data load Not sure what changed.",Data & BI (Qlik / Alteryx),P2
+T101397,FYI Alteryx workflow failed overnight with a connection error Started today.,Data & BI (Qlik / Alteryx),P3
+T101398,"FYI need to restore whole VM from yesterday's snapshot, server corrupted Thanks.",Backup & Recovery,P1
+T101399,Quick one: whole finance team getting 'account disabled' sign-in errors since 9am,Account Access,P1
+T101400,Teams meetings audio keeps cutting out for all staff at warehouse,Microsoft 365 / Software,P2
+T101401,"FYI firewall cluster failed over, primary unresponsive, site traffic unstable",Network / Firewall,P2
+T101402,"Hello team, whole finance team getting 'account disabled' sign-in errors since 9am",Account Access,P1
+T101403,"laptop will not turn on, battery light flashing Started today.",Hardware / Device,P3
+T101404,"Hi, VPN tunnel to Newcastle office keeps dropping every few minutes Thanks.",Network / Firewall,P2
+T101405,AWS S3 bucket permissions error for the reporting service Not sure what changed.,Cloud (Azure / AWS),P3
+T101406,"FYI suspicious email with attachment from unknown sender, did not open it Happening for a while now.",Phishing / Email Security,P3
+T101407,URGENT: sales report shows wrong totals after the latest data load Thanks.,Data & BI (Qlik / Alteryx),P2
+T101408,"backup agent offline on file server, last success 3 days ago",Backup & Recovery,P2
+T101409,"Hi, mailbox full, need quota increase Started today.",Microsoft 365 / Software,P4
+T101410,"storage account nearing quota, alert triggered Not sure what changed.",Cloud (Azure / AWS),P3
+T101411,nightly backup failed again with error repository full Started today.,Backup & Recovery,P2
+T101412,"EDR alert: malware detected on Mark's laptop, quarantined automatically Not sure what changed.",Endpoint Security Alert,P3
+T101413,"Hello team, monitor flickering on Chloe's desk Started today.",Hardware / Device,P4
+T101414,URGENT: monitor flickering on Ravi's desk,Hardware / Device,P4
+T101415,CEO locked out of account before board meeting in 30 minutes Thanks.,Account Access,P2
+T101416,please restore a deleted folder from last Tuesday for Sam Started today.,Backup & Recovery,P3
+T101417,"laptop screen cracked, user is travelling and needs it for client demo Started today.",Hardware / Device,P2
+T101418,"Hello team, printer at Newcastle office jammed and showing error code Happening for a while now.",Hardware / Device,P4
+T101419,"Hello team, MFA prompt not arriving on new phone, locked out of everything",Account Access,P2
+T101420,"Account locked out after several attempts, user at Gateshead depot Started today.",Account Access,P4
+T101421,FYI please restore a deleted folder from last Tuesday for Emma Thanks.,Backup & Recovery,P3
+T101422,Quick one: backup report shows a warning on one job but completed,Backup & Recovery,P4
+T101423,"Hello team, received a strange email asking me to verify my bank details Can someone look asap?",Phishing / Email Security,P3
+T101424,URGENT: password expired and self service reset is failing for Aisha Not sure what changed.,Account Access,P3
+T101425,"Hi, SharePoint keeps crashing when opening attachments Started today.",Microsoft 365 / Software,P3
+T101426,"EDR alert: malware detected on Chloe's laptop, quarantined automatically",Endpoint Security Alert,P3
+T101427,"FYI is this email legitimate? looks odd, question only Thanks.",Phishing / Email Security,P4
+T101428,month-end Qlik reload failed and finance needs numbers today Not sure what changed.,Data & BI (Qlik / Alteryx),P2
+T101429,printer at head office jammed and showing error code,Hardware / Device,P4
+T101430,"phishing campaign: users reporting emails impersonating our MD, several clicked",Phishing / Email Security,P1
+T101431,"FYI internet down at London branch, nobody can get online",Network / Firewall,P1
+T101432,"URGENT: Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T101433,received a strange emial asking me to verify my bank details Can someone look asap?,Phishing / Email Security,P3
+T101434,Please help - antivirus flagged a potentially unwanted program on a workstation,Endpoint Security Alert,P4
+T101435,"Hello team, month-end Qlik reload failed and finance needs numbers today Thanks.",Data & BI (Qlik / Alteryx),P2
+T101436,"Hello team, laptop will not turn on, battery light flashing Thanks.",Hardware / Device,P3
+T101437,"Hi, laptop will not turn on, battery light flashing",Hardware / Device,P3
+T101438,SharePoint keeps crashing when opening attachments Can someone look asap?,Microsoft 365 / Software,P3
+T101439,"Hello team, request for a new column in the stock dashboard",Data & BI (Qlik / Alteryx),P4
+T101440,"Azure VM not responding, production web app is down",Cloud (Azure / AWS),P1
+T101441,monitor flickering on Priya's desk Thanks.,Hardware / Device,P4
+T101442,"Hi, mailbox full, need quota increase Thanks.",Microsoft 365 / Software,P3
+T101443,"Hi, EDR high severity: suspicious PowerShell executing encoded commands on server",Endpoint Security Alert,P2
+T101444,"URGENT: Account locked out after several attempts, user at London branch Not sure what changed.",Account Access,P2
+T101445,URGENT: request for a new column in the stock dashboard,Data & BI (Qlik / Alteryx),P4
+T101446,"URGENT: is this email legitimate? looks odd, question only",Access / Change Request,P4
+T101447,"Hi, received a strange email asking me to verify my bank details",Phishing / Email Security,P3
+T101448,"Please help - mailbox full, need quota increase Not sure what changed.",Microsoft 365 / Software,P4
+T101449,Quick one: sales report shows wrong totals after the latest data load Started today.,Data & BI (Qlik / Alteryx),P2
+T101450,printer at head office jammed and showing error code Happening for a while now.,Hardware / Device,P4
+T101451,URGENT: VPN tunnel to Leeds site keeps dropping every few minutes Thanks.,Network / Firewall,P2
+T101452,URGENT: SharePoint site access denied for Dave Started today.,Microsoft 365 / Software,P3
+T101453,URGENT: AWS S3 bucket permissions error for the reporting service Not sure what changed.,Cloud (Azure / AWS),P3
+T101454,Alteryx workflow failed overnight with a connection error Not sure what changed.,Data & BI (Qlik / Alteryx),P3
+T101455,URGENT: multiple staff at Leeds site received same fake invoice email with link,Phishing / Email Security,P2
+T101456,Excel keeps crashing when opening attachments Can someone look asap?,Microsoft 365 / Software,P3
+T101457,URGENT: hard drive making clicking noise on a director's desktop Not sure what changed.,Hardware / Device,P3
+T101458,Teams meetings audio keeps cutting out for all staff at Gateshead depot,Access / Change Request,P2
+T101459,"EDR alert: malware detected on Lena's laptop, quarantined automatically Thanks.",Endpoint Security Alert,P4
+T101460,"Hello team, SharePoint site access denied for Lena Can someone look asap?",Microsoft 365 / Software,P3
+T101461,"Please help - need to restore whole VM from yesterday's snapshot, server corrupted",Backup & Recovery,P1
+T101462,Quick one: Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T101463,"URGENT: laptop screen cracked, user is travelling and needs it for client demo Not sure what changed.",Hardware / Device,P2
+T101464,"emial not working for entire company, no one can send or receive Started today.",Microsoft 365 / Software,P1
+T101465,"Hello team, nightly backup failed again with error repository full",Backup & Recovery,P2
+T101466,"Hello team, phishing campaign: users reporting emails impersonating our MD, several clicked Thanks.",Phishing / Email Security,P1
+T101467,"Hi, urgent: terminated employee still has access to systems, disable now Can someone look asap?",Access / Change Request,P2
+T101468,month-end Qlik reload failed and finance needs numbers today,Phishing / Email Security,P2
+T101469,Please help - add Dave to the finance shared folder group Happening for a while now.,Access / Change Request,P4
+T101470,URGENT: ransomware behaviour detected on multiple endpoints at warehouse,Endpoint Security Alert,P1
+T101471,Teams meetings audio keeps cutting out for all staff at Newcastle office Started today.,Backup & Recovery,P2
+T101472,"Account locked out after several attempts, user at Leeds site",Account Access,P3
+T101473,"URGENT: Sam cannot log in, says password is incorrect",Account Access,P3
+T101474,"email not working for entire company, no one can send or receive",Microsoft 365 / Software,P1
+T101475,"Account locked out after several attempts, user at London branch Happening for a while now.",Account Access,P3
+T101476,"Hi, password expired and self service reset is failing for Lena Not sure what changed.",Account Access,P3
+T101477,"need to restore whole VM from yesterday's snapshot, server corrupted Not sure what changed.",Backup & Recovery,P1
+T101478,Alteryx workflow failed overnight with a connection error,Data & BI (Qlik / Alteryx),P3
+T101479,"Hello team, AWS S3 bucket permissions error for the reporting service Happening for a while now.",Cloud (Azure / AWS),P3
+T101480,"Hello team, endpoint agent shows as out of date on Aisha's device Can someone look asap?",Endpoint Security Alert,P3
+T101481,Quick one: need licence for Visio for Dave,Access / Change Request,P4
+T101482,"Hello team, endpoint agent shows as out of date on Emma's device Started today.",Endpoint Security Alert,P4
+T101483,"Hi, Teams meetings audio keeps cutting out for all staff at head office Thanks.",Microsoft 365 / Software,P3
+T101484,Quick one: Teams meetings audio keeps cutting out for all staff at warehouse Not sure what changed.,Microsoft 365 / Software,P2
+T101485,leaver today: please disable account and forward mailbox to manager Happening for a while now.,Access / Change Request,P3
+T101486,please restore a deleted folder from last Tuesday for Emma,Backup & Recovery,P3
+T101487,"FYI urgent: terminated employee still has access to systems, disable now Can someone look asap?",Access / Change Request,P2
+T101488,"laptop screen cracked, user is travelling and needs it for client demo Started today.",Hardware / Device,P3
+T101489,"Quick one: I clicked a link in an email and entered my password, now worried Thanks.",Phishing / Email Security,P3
+T101490,Please help - endpoint agent shows as out of date on Mark's device,Endpoint Security Alert,P4
+T101491,Quick one: endpoint agent shows as out of date on Tom's device,Endpoint Security Alert,P4
+T101492,Quick one: endpoint agent shows as out of date on Aisha's device Can someone look asap?,Endpoint Security Alert,P4
+T101493,"Hi, AWS S3 bucket permissions error for the reporting service Thanks.",Cloud (Azure / AWS),P3
+T101494,add Ravi to the finance shared folder group Started today.,Access / Change Request,P4
+T101495,"Hi, Qlik dashboard not refreshing, data is from last week Can someone look asap?",Data & BI (Qlik / Alteryx),P3
+T101496,"URGENT: cannot send emails from Outlook, stuck in outbox Started today.",Microsoft 365 / Software,P3
+T101497,FYI sales report shows wrong totals after the latest data load Thanks.,Data & BI (Qlik / Alteryx),P2
+T101498,"phishing campaign: users reporting emails impersonating our MD, several clicked Thanks.",Phishing / Email Security,P1
+T101499,"Hi, laptop screen cracked, user is travelling and needs it for client demo",Hardware / Device,P3

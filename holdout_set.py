@@ -1,0 +1,28 @@
+"""Fresh hold-out set written AFTER the first evaluation round and NOT used for any tuning.
+stress_set.py was used as a development set; this is the clean final test."""
+HOLDOUT = [
+ ("Unable to sign in to my work PC, it says my password has expired but reset page throws an error", "Account Access", "P3"),
+ ("Entire sales floor can't authenticate this morning, getting account disabled errors", "Account Access", "P1"),
+ ("Someone rang claiming to be IT and a colleague typed her password into a link they texted her", "Phishing / Email Security", "P2"),
+ ("Odd message in my inbox from 'HMRC' about a tax refund, haven't clicked anything", "Phishing / Email Security", "P3"),
+ ("Antimalware blocked a suspicious macro document on the HR laptop", "Endpoint Security Alert", "P3"),
+ ("Server shares are unreadable, every file has an odd new suffix and there's a README demanding payment", "Endpoint Security Alert", "P1"),
+ ("Broadband at the Leeds site is dead, the whole office is offline", "Network / Firewall", "P1"),
+ ("Guest wifi drops out whenever more than a few people connect", "Network / Firewall", "P4"),
+ ("Our customer web app running in Azure is throwing 503 errors for everyone", "Cloud (Azure / AWS)", "P1"),
+ ("Can we scale up the dev virtual machine in AWS please? it is a bit slow", "Cloud (Azure / AWS)", "P4"),
+ ("The weekend backup job errored out, and there's a warning that the storage target is nearly full", "Backup & Recovery", "P2"),
+ ("A user deleted a client folder by accident last Thursday, please recover it", "Backup & Recovery", "P3"),
+ ("Excel crashes every time I open the large forecast file", "Microsoft 365 / Software", "P3"),
+ ("No one in the company can send or receive email since lunchtime", "Microsoft 365 / Software", "P1"),
+ ("My docking station stopped detecting the external monitors", "Hardware / Device", "P4"),
+ ("Director's laptop dropped and won't power on, big client presentation this afternoon", "Hardware / Device", "P2"),
+ ("Qlik app shows yesterday's figures, the scheduled refresh seems to have stopped", "Data & BI (Qlik / Alteryx)", "P3"),
+ ("Alteryx flow errors with an authentication failure to the SQL source and finance close is tomorrow", "Data & BI (Qlik / Alteryx)", "P2"),
+ ("Please set up accounts and equipment for two joiners starting next Wednesday", "Access / Change Request", "P4"),
+ ("An ex-employee's login is still active, needs disabling today", "Access / Change Request", "P2"),
+ ("Could I be added to the marketing SharePoint group?", "Access / Change Request", "P4"),
+ ("Router rebooted itself and now the VPN to head office won't come up for the remote site", "Network / Firewall", "P2"),
+ ("Teams keeps freezing during calls on my laptop only", "Microsoft 365 / Software", "P3"),
+ ("Reporting numbers in the sales dashboard don't match what finance has", "Data & BI (Qlik / Alteryx)", "P3"),
+]
